@@ -1,0 +1,925 @@
+food_name,age,time,cuisine_type,cooking_method,dish_type,dietary_preferences,spice_level,occasion,nutrient_content,region_origin,texture,post_id
+fried rice,adult,dinner,indian,fried,main course,vegetarian,mild,everyday,high carb,indian,soft,1cb85xg
+chilli prawns,adult,snacks,fusion,grilled,appetizer,non-vegetarian,medium,everyday,high protein,fusion,soft,1cb6hml
+watermelon juice,child,breakfast,fusion,blended,drink,vegetarian,mild,everyday,high water content,fusion,smooth,1cb607c
+margherita pizza,adult,dinner,italian,baked,pizza,non-vegetarian,mild,everyday,high carb,italian,chewy,1cb4voz
+maggi,child,snacks,indo-western,stir-fried,snack,vegetarian,mild,everyday,high carb,indian,soft,1cb1rg4
+pindi chole,adult,lunch,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjab,soft,1cb1dt3
+chole,adult,lunch,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1cb0dma
+paneer butter masala,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,indian,smooth,1cazl6l
+shahi tukda,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,mughlai,soft,1cay05z
+gujarati khandvi,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,gujarati,soft,1cascpv
+thaali,adult,dinner,indian,steamed,meal,vegetarian,medium,everyday,high,can't,soft,1cahfk4
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,gujarati,soft,1cahdyi
+dal chawal and bhindi fry,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1cagx63
+soy chunks,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high protein,other,soft,1cagmnh
+kathal ki sabzi,adult,dinner,north indian,stir-fried,side dish,vegetarian,medium,everyday,high fiber,punjabi,soft,1caftg3
+steamed rice,adult,lunch,indian,steamed,side dish,vegetarian,mild,everyday,high fiber,indian,soft,1caf1bn
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1cadg6n
+pulao,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1cadb6v
+pyare kebab,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,everyday,high protein,punjabi,tender,1caa29f
+kukkad,adult,lunch,south indian,grilled,main course,non-vegetarian,medium,everyday,high protein,tamil,soft,1ca7wtn
+paneer tikka,adult,lunch,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1ca6ng0
+chicken momos,child,lunch,north indian,steamed,appetizer,non-vegetarian,medium,festive,high protein,chinese,soft,1ca5kxr
+chicken curry,adult,dinner,south indian,curried,main course,non-vegetarian,medium,everyday,high protein,kerala,soft,1ca4mua
+rose falooda recipe,adult,dessert,indian,stir-fried,dessert,vegetarian,mild,festive,high carb,indian,crunchy,1ca1cj1
+pav,adult,lunch,indian,baked,appetizer,vegetarian,mild,everyday,high carb,mumbai,soft,1ca16or
+overnight soaked oats,adult,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high fiber,indian,soft,1c9yvu3
+biryani,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1c9njgf
+dal,adult,lunch,indian,steamed,thaali,vegetarian,medium,everyday,high protein,indian,soft,1c9nhpa
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1c9n105
+paneer burji,adult,snacks,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,north indian,soft,1c9lj1f
+Ras Malai,child,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1c9l3wr
+Chicken Tikka Masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,dinner,high protein,indian,crispy,1c9kn2o
+Vada Pav,child,snacks,indian,fried,snack,vegetarian,mild,everyday,high carb,mumbai,soft,1c9l3wr
+Biryani,adult,dinner,indo-western,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1c9jy0p
+Paneer Bhurji,adult,dinner,indian,stir-fried,main course,vegetarian,medium,dinner,high protein,indian,soft,1c9jk65
+Paneer Paratha,adult,breakfast,indian,grilled,main course,vegetarian,medium,breakfast,high protein,punjabi,soft,1c9imnv
+Pomfret fry,adult,dinner,south indian,fried,appetizer,non-vegetarian,medium,everyday,high protein,kerala,crispy,1c9gpqn
+Itwaar Meal,adult,dinner,indian,grilled,main course,vegetarian,mild,everyday,high protein,indian,grilled,1c9gd11
+Mutton Masala Curry,adult,dinner,indian,curried,main course,non-vegetarian,medium,dinner,high protein,indian,soft,1c9e38q
+Pindi Chole Kulcha,adult,dinner,north indian,grilled,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1c9bw7q
+pav bhaji,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1c9afyr
+steamed rice with lentil dal,adult,lunch,indian,steamed,main course,vegetarian,mild,everyday,high protein,indian,soft,1c99k87
+chicken curry,adult,dinner,indian,curried,main course,non-vegetarian,medium,everyday,high protein,indian,smooth,1c99c06
+eggless chocolate chip and white chip cookies,adult,snacks,fusion,baked,dessert,vegetarian,mild,everyday,high carb,indian,soft,1c961iz
+blueberry milkshake with stir-fried toast and sunny side up,adult,breakfast,fusion,stir-fried,breakfast,vegetarian,mild,everyday,high carb,indian,smooth,1c8xjx6
+mutton soup,senior citizen,dinner,north indian,boiled,soup,non-vegetarian,medium,everyday,high protein,punjabi,thick,1c8x3cd
+chicken tikka masala,adult,lunch,indian,grilled,appetizer,non-vegetarian,spicy,everyday,high protein,indian,soft,1c8wwye
+drunken paneer,adult,lunch,indian,grilled,appetizer,vegetarian,medium,festive,high protein,indian,soft,1c8vpgt
+paneer wrap with hummus dip,senior citizen,snacks,fusion,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1c8vcyr
+rajma chawal,adult,dinner,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1c8uzmj
+mutton karahi,adult,dinner,north indian,grilled,main course,non-vegetarian,spicy,festive,high protein,punjabi,tender,1c8uc5t
+peri paneer salad bowl,senior citizen,lunch,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1c8tbvz
+mudhi mixture sev,adult,snacks,indian,fried,snack,vegetarian,mild,everyday,high carb,indian,crispy,1c8syyq
+steamed vegetable bowl,senior citizen,snacks,indian,steamed,snack,vegetarian,mild,everyday,high fiber,indian,soft,1c8rev4
+veg fried rice,senior citizen,lunch,fusion,fried,side dish,vegetarian,mild,everyday,high carb,indian,soft,1c8rb21
+lackey tsar,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1c8pnpa
+taimur ki nanny,adult,dinner,indo-western,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1c8lcfa
+kala chana and chawal,adult,lunch,north indian,steamed,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1c8kr0m
+french fries,senior citizen,snacks,western,fried,snack,non-vegetarian,mild,everyday,high carb,western,crispy,1c8k5q2
+rajma chawal,senior citizen,dinner,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1c8ji88
+paneer paratha dahi,adult,breakfast,north indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,soft,1c8ixdp
+grilled chicken tikka,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1c8ipcj
+strawberry shake,child,snacks,fusion,blended,dessert,vegetarian,mild,everyday,high carb,fusion,smooth,1c8f60q
+gujarati khandvi,senior citizen,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,gujarati,soft,1c8bpcd
+grilled chicken tikka,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1c83q7n
+instant tomatoes chutney,senior citizen,snacks,indian,stir-fried,starter,vegetarian,mild,everyday,high fiber,indian,liquid,1c81u6s
+mushroom pepper fry,adult,lunch,fusion,stir-fried,appetizer,vegetarian,medium,everyday,high protein,fusion,crunchy,1c80pc4
+pasta and cheese garlic bread,child,snacks,western,baked,snack,non-vegetarian,mild,everyday,high carb,western,soft,1c7yvyk
+golden prawns,senior citizen,lunch,goan,grilled,appetizer,non-vegetarian,medium,everyday,high protein,goa,soft,1c7yugu
+mango mousse,senior citizen,dinner,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,smooth,1c7ydmp
+bombay vada pav,adult,snacks,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1c7wiip
+paneer shashlik,adult,dinner,indian,grilled,main course,vegetarian,medium,festive,high protein,indian,soft,1c7wa6a
+grilled cottage,adult,lunch,fusion,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1c7rsvu
+greek yogurt,adult,breakfast,indo-western,stir-fried,breakfast,vegetarian,mild,everyday,high protein,indian,creamy,1c7ren3
+egg biryani,adult,dinner,indian,steamed,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1c7ps3n
+gulab jamun,adult,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,gujarati,soft,1c7ox8m
+chicken biryani,adult,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high carb,indian,soft,1c7out9
+chai,child,breakfast,indian,boiled,drink,vegetarian,mild,everyday,high carb,india,liquid,1c7nv4z
+lasan bedu,adult,dinner,indian,steamed,main course,vegetarian,medium,festive,high protein,bohra,soft,1c7d09k
+curd rice,adult,lunch,south indian,steamed,main course,vegetarian,mild,everyday,high carb,south indian,soft,1c76vhv
+blueberry halva,adult,dessert,fusion,baked,dessert,vegetarian,mild,everyday,high carb,indian,soft,1c74pwl
+vegetable kurma,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,indian,soft,1c734zy
+maggie masala,adult,snacks,indian,stir-fried,snack,vegetarian,medium,everyday,high carb,indian,soft,1c6zd0d
+roti paneer,adult,lunch,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1c6yqka
+sandge papad,adult,snacks,indian,steamed,snack,vegetarian,mild,traditional,high carb,maharashtrian,crispy,1c6xjje
+momos,adult,snacks,north indian,steamed,appetizer,vegetarian,mild,festive,high protein,nepal,soft,1c6vnxs
+vegetable biryani,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1c6eizi
+chicken tikka,adult,lunch,indian,grilled,main course,non-vegetarian,medium,office lunch,high protein,indian,soft,1c6e7hh
+paneer lollipop,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1c6c2a4
+grilled chicken,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1c682qt
+dal,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1c671zz
+kitchri,adult,lunch,indian,steamed,main course,vegetarian,medium,everyday,high protein,indian,soft,1c664p5
+misal,adult,lunch,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,pune,soft,1c65vbg
+kulfi,child,dessert,indian,frozen,dessert,vegetarian,mild,festive,high carb,indian,creamy,1c65bv7
+sakhar,adult,dinner,indo-western,steamed,main course,vegetarian,mild,festive,high carb,konkani,soft,1c64oy0
+idli,adult,breakfast,south indian,steamed,appetizer,vegetarian,mild,everyday,high carb,tamil,soft,1c5zzxs
+panchratan,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,smooth,1c5plyk
+sabudana,adult,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high protein,maharashtrian,crispy,1c5lew0
+pizza,adult,dinner,western,baked,appetizer,non-vegetarian,mild,everyday,high carb,western,chewy,1c5kay8
+thupka,adult,lunch,indo-western,steamed,soup,vegetarian,medium,everyday,high protein,tibetan,thick,1c5jcae
+south indian meals,senior citizen,dinner,south indian,steamed,meal,vegetarian,mild,everyday,high carb,south indian,soft,1c5j866
+chaat,adult,dinner,north indian,grilled,appetizer,vegetarian,mild,festive,high protein,delhi,crunchy,1c5j4cl
+masala chaap,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,everyday,high protein,punjabi,soft,1c5j0x4
+chaat,adult,lunch,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,crunchy,1c5i78v
+aamras,adult,sweet,indian,steamed,dessert,vegetarian,mild,festive,high carb,maharashtrian,smooth,1c5hdlg
+jangri,adult,dessert,indian,steamed,dessert,vegetarian,mild,everyday,high carb,north indian,soft,1c5dz1s
+dum pulao,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,north indian,soft,1c5cvdx
+chole,adult,dessert,indian,fry,dessert,vegetarian,medium,festive,high carb,north indian,soft,1c5bqij
+aloo makhana,adult,lunch,indian,grilled,appetizer,vegetarian,mild,festive,high protein,indian,crispy,1c5bgc1
+grilled chicken,adult,lunch,indian,grilled,main course,non-vegetarian,medium,festive,high protein,indian,tender,1c58ytg
+Aloo Tikki,adult,breakfast,Indian,other,breakfast,vegetarian,mild,everyday,high protein,north indian,crispy,1c56mn5
+Vada Pav,adult,snacks,South Indian,steamed,appetizer,vegetarian,mild,everyday,high protein,Karnataka,soft,1c557b9
+Sev Puri,adult,snacks,North Indian,fried,snack,vegetarian,mild,everyday,high carb,Punjabi,crispy,1c4zrqv
+Tandoori roti,adult,dinner,Indian,baked,main course,vegetarian,medium,everyday,high carb,other,soft,1c4z8mv
+Dalbiji,adult,breakfast,North Indian,steamed,main course,vegetarian,mild,everyday,high carb,Punjabi,soft,1c4trj6
+Meethi rava idli,adult,breakfast,South Indian,steamed,appetizer,vegetarian,mild,everyday,high protein,Tamil,soft,1c4qf2c
+Fish Fry,adult,dinner,Fusion,fried,appetizer,non-vegetarian,medium,everyday,high protein,other,crispy,1c4pqcj
+Aglio Olio Spaghetti,adult,dinner,Indo-Western,stir-fried,appetizer,non-vegetarian,mild,everyday,high protein,other,soft,1c4hxjf
+Sadhya,adult,dinner,South Indian,steamed,main course,vegetarian,mild,festive,high protein,Tamil,soft,1c40im7
+Coconut dalh,adult,dinner,Indian,curried,main course,vegetarian,medium,everyday,high protein,other,creamy,1c40faq
+lamb biryani,adult,dinner,indian,baked,main course,non-vegetarian,medium,festive,high protein,indian,soft,1c3zs4k
+chutney pulao,adult,dinner,indian,steamed,main course,vegetarian,mild,everyday,high carb,indian,soft,1c3xwvf
+fruit milkshake,child,snacks,fusion,blended,dessert,vegetarian,mild,everyday,high carb,indian,smooth,1c3xcqw
+grilled chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,festive,high protein,indian,soft,1c3vgjg
+naan,adult,breakfast,indian,baked,bread,vegetarian,mild,everyday,high carb,indian,soft,1c3ujgj
+bhel,adult,snacks,indian,stir-fried,snack,vegetarian,medium,everyday,high fiber,indian,crunchy,1c3tya0
+pakode,child,snacks,indian,fried,appetizer,vegetarian,mild,everyday,high carb,indian,crispy,1c3szb8
+bahubali sandwich,adult,lunch,indian,grilled,sandwich,vegetarian,mild,everyday,high protein,indian,crunchy,1c3s2jl
+sadya,senior citizen,lunch,south indian,steamed,appetizer,vegetarian,mild,festive,high fiber,south indian,soft,1c3r7qa
+monaco biscuit,child,breakfast,indian,baked,dessert,vegetarian,mild,everyday,high carb,indian,crispy,1c3okyh
+ghar ka khaana,adult,dinner,north indian,grilled,main course,vegetarian,mild,everyday,high protein,punjabi,soft,1c3nxkm
+itwaar bohaag bihu meal,senior citizen,dinner,north indian,steamed,meal,vegetarian,mild,festive,high carb,punjabi,soft,1c3mu59
+paneer tikka,senior citizen,dinner,indian,grilled,appetizer,vegetarian,mild,festive,high protein,punjabi,soft,1c3m2fv
+gulab jamun,senior citizen,dinner,indian,baked,dessert,vegetarian,mild,festive,high carb,india,soft,1c3j52e
+lamb biryani,adult,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high carb,indian,soft,1c3djpi
+matar ki crispy kachori,adult,snacks,north indian,fried,appetizer,vegetarian,medium,everyday,high carb,punjabi,crispy,1c35uxa
+tandoori chicken,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1c35tzk
+schezwan chicken,adult,dinner,fusion,stir-fried,main course,non-vegetarian,medium,everyday,high protein,indian,crispy,1c333g7
+steamed rice,adult,lunch,indian,steamed,lunch,vegetarian,mild,everyday,high carb,indian,soft,1c2ysvt
+apple halwa,senior citizen,dinner,indian,stir-fried,dessert,vegetarian,mild,everyday,high carb,indian,soft,1c2uupx
+thai green curry,adult, dinner, fusion, stir-fried, main course, non-vegetarian, medium, everyday, high protein, other, smooth, 1c2m9ur
+ghee podi idli,senior, breakfast, south indian, steamed, main course, vegetarian, mild, everyday, high carb, tamil, soft, 1c2f05s
+paneer wale chawal,adult, dinner, north indian, steamed, main course, vegetarian, medium, everyday, high protein, punjabi, soft, 1c2ewb3
+squid ghee roast,senior, dinner, fusion, grilled, appetizer, non-vegetarian, medium, everyday, high protein, other, soft, 1c2anoj
+chai and aloo sandwich,adult, snacks, indian, grilled, snack, vegetarian, mild, everyday, high carb, other, soft, 1c28mgf
+yin-yang grilled vegetables,senior, lunch, fusion, grilled, lunch, vegetarian, medium, everyday, high protein, other, crispy, 1c23wbv
+hyderabadi biryani,adult, dinner, indian, steamed, main course, non-vegetarian, medium, festive, high protein, hyderabadi, soft, 1c20h8s
+soy chilli,adult, snacks, fusion, stir-fried, appetizer, vegetarian, medium, everyday, high protein, other, crunchy, 1c1xcpy
+aloo stuffed capsicum bonda,adult, lunch, indian, steamed, appetizer, vegetarian, medium, festive, high fiber, indian, soft, 1c1jw1w
+chhole bhature,adult, lunch, north indian, stir-fried, main course, vegetarian, medium, festive, high carb, punjabi, soft, 1c1eov4
+cabbage fried rice,adult,dinner,fusion,stir-fried,main course,vegetarian,mild,everyday,high protein,other,soft,1c1cfln
+thayir sadam,senior citizen,lunch,south indian,stir-fried,appetizer,vegetarian,mild,everyday,high protein,tamil,soft,1c1bty1
+pasta with tomato sauce,adult,dinner,fusion,baked,dessert,vegetarian,mild,everyday,high carb,italian,soft,1c199xn
+veg thali,senior citizen,lunch,indian,steamed,main course,vegetarian,medium,everyday,high protein,other,mixed,1c18fkg
+kesari bhat khara bhat,senior citizen,breakfast,south indian,steamed,breakfast,vegetarian,mild,everyday,high carb,tamil,soft,1c16c58
+baingan bhaja,senior citizen,dinner,indian,fried,appetizer,vegetarian,medium,everyday,high protein,bengali,crispy,1c0qqf6
+bangarapete panipuri,child,snacks,south indian,steamed,appetizer,vegetarian,mild,everyday,high fiber,karnataka,crispy,1c0qimx
+honey lemon mutton curry,adult,dinner,indian,curried,main course,non-vegetarian,medium,dinner,high protein,other,tender,1c0n5up
+strawberry roll-ups,senior citizen,dessert,indian,stir-fried,dessert,vegetarian,mild,everyday,high carb,other,soft,1c0fkg7
+grilled chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,dinner,high protein,other,soft,1c0016w
+chilli potato,adult,snacks,indian,grilled,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1bzweo5
+hyderabadi chicken biriyani,adult,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high carb,hyderabadi,soft,1bznynq
+taipo,senior citizen,lunch,tibetan,steamed,appetizer,non-vegetarian,medium,everyday,high protein,tibet,soft,1bznrgg
+mango vanilla shake,child,snacks,fusion,blended,dessert,vegetarian,mild,everyday,high carb,indian,smooth,1bznee9
+navratri breakfast,senior citizen,breakfast,indian,steamed,breakfast,vegetarian,mild,festive,high protein,indian,soft,1bzm2kp
+mixed vegetable salad,adult,lunch,fusion,mixed,salad,vegetarian,mild,everyday,high fiber,indian,crunchy,1bzl2kv
+grilled chicken sandwich,adult,dinner,indo-western,grilled,main course,non-vegetarian,mild,everyday,high protein,indian,soft,1bzkz1d
+idli,senior citizen,breakfast,indian,steamed,breakfast,vegetarian,mild,festive,high protein,india,soft,1bzk74b
+spicy egg fried rice,adult,dinner,fusion,stir-fried,main course,non-vegetarian,spicy,everyday,high carb,indian,soft,1bzj5ar
+makhana chaat,adult,snacks,indian,stir-fried,snack,vegetarian,mild,everyday,high fiber,maharashtrian,crunchy,1bz5tt5
+vermicelli milk pudding,child,dessert,indian,steamed,dessert,vegetarian,mild,festive,high carb,bengali,creamy,1bz59oh
+eid celebration recipes,adult,dinner,indian,baked,main course,vegetarian,medium,festive,high carb,indian,soft,1bz4rd8
+rasgulla,child,dessert,indian,baked,dessert,vegetarian,mild,everyday,high carb,bengali,soft,1bz0sxh
+pav bhajji,adult,lunch,indian,stir-fried,side dish,vegetarian,mild,everyday,high carb,indian,soft,1bz0brt
+paneer do pyaza,adult,snacks,north indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,punjabi,soft,1byz0bn
+caramel rice paayasam,adult,dinner,south indian,steamed,dessert,vegetarian,mild,festive,high carb,tamil,smooth,1byypru
+apricot sheera,child,dinner,indian,stir-fried,dessert,vegetarian,mild,festive,high carb,south indian,soft,1bywth8
+baked banana cake,child,dessert,indian,baked,dessert,vegetarian,mild,everyday,high carb,indian,moist,1byu94y
+steamed idli,adult,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high protein,indian,soft,1byt1dg
+fried eggs,adult,snacks,indian,fried,snack,vegetarian,mild,everyday,high protein,indian,soft,1byqooi
+baked macaroni and cheese,adult,dinner,indian,baked,main course,vegetarian,mild,everyday,high carb,indian,creamy,1byf4m2
+aloo masala sandwich,child,breakfast,indian,stir-fried,appetizer,vegetarian,mild,everyday,high carb,indian,soft,1bycbr6
+sunday,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,cake-like,1byb2io
+thaali,adult,dinner,indian,stir-fried,meal,vegetarian,medium,everyday,high carb,indian,soft,1byb2io
+veg momos,child,snacks,north indian,steamed,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1by9ege
+surmai fry and chicken xacuti thali,adult,dinner,fusion,fried,main course,non-vegetarian,medium,everyday,high protein,indian,crispy,1by64ux
+curd rice and farali chiwada for shivratri,senior citizen,dinner,indian,steamed,main course,vegetarian,mild,festive,high carb,indian,soft,1by4op5
+mutton chop fry,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,everyday,high protein,punjabi,tender,1by2fql
+vada pav,adult,snacks,indian,steamed,snack,vegetarian,mild,everyday,high carb,gujarati,soft,1by1ld7
+dried raw mango,adult,snacks,indian,dried,dessert,vegetarian,mild,everyday,high carb,indian,soft,1by0ez8
+chicken dum biryani,senior citizen,dinner,indian,steamed,main course,non-vegetarian,medium,everyday,high carb,other,soft,1bxz1s5
+itwaar ka aalsi nashta,adult,breakfast,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,gujarati,soft,1bxxkz7
+spaghetti aglio e olio,adult,lunch,fusion,stir-fried,starter,vegetarian,medium,everyday,high carb,other,soft,1bxv5yd
+chutney,adult,lunch,indian,mixed,sauce,vegetarian,mild,everyday,high protein,indian,smooth,1bxqj4v
+chicken pulao,senior citizen,dinner,indian,steamed,main course,non-vegetarian,medium,everyday,high protein,other,soft,1bxk094
+rajma chawal,adult,dinner,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1bxhhs5
+mirchi vada,adult,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1bxf27u
+steamed rice,adult,dinner,fusion,steamed,main course,non-vegetarian,spicy,everyday,high carb,other,soft,1bxdrw7
+kadhai chicken,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,other,soft,1bxd593
+bread pudding,adult,dinner,fusion,baked,dessert,vegetarian,mild,everyday,high carb,other,soft,1bxc4ux
+kadhi,senior citizen,late lunch,indian,fried,appetizer,vegetarian,medium,late lunch,high carb,indian,crispy,1bx953e
+sago,senior citizen,snacks,indian,steamed,appetizer,vegetarian,medium,festive,high carb,india,soft,1bx8ohw
+panner,adult,dinner,fusion,fried,main course,vegetarian,medium,everyday,high protein,fusion,crunchy,1bx1aay
+litti,senior citizen,dinner,north indian,steamed,appetizer,vegetarian,mild,everyday,high protein,bihar,soft,1bwnet1
+chapathi,senior citizen,breakfast,indian,steamed,appetizer,vegetarian,mild,everyday,high carb,indian,soft,1bwkavr
+chicken,adult,snacks,western,fried,appetizer,non-vegetarian,mild,everyday,high carb,western,crispy,1bwiejr
+creamy,adult,dinner,indian,baked,dessert,vegetarian,mild,everyday,high carb,indian,smooth,1bwf8li
+chana,adult,lunch,indian,stir-fried,main course,vegetarian,mild,everyday,high protein,indian,smooth,1bwdtz8
+rice,adult,dinner,indian,stir-fried,main course,non-vegetarian,medium,everyday,high protein,goan,soft,1bvuxfq
+dal,adult,dinner,indian,stir-fried,meal,vegetarian,medium,everyday,high carb,indian,smooth,1bvt9nl
+chicken biryani,adult,dinner,indo-western,stir-fried,dessert,vegetarian,mild,everyday,high fiber,other,soft,1bvrfcp
+assamese thali,adult,dinner,north indian,steamed,thali,vegetarian,medium,everyday,high protein,assamese,soft,1bvnjza
+avocado toast,adult,snacks,fusion,toasted,snack,vegetarian,mild,everyday,high fiber,other,soft,1bvnhua
+cheese nachos,adult,snacks,fusion,baked,appetizer,non-vegetarian,mild,everyday,high carb,other,crunchy,1bvn29n
+veg peanut toast,senior citizen,snacks,indian,toasted,snack,vegetarian,mild,everyday,high protein,indian,crispy,1bvkbfp
+ros omelette,adult,dinner,indian,stir-fried,main course,vegetarian,mild,everyday,high protein,indian,soft,1bvjzw0
+grilled chicken steak,adult,lunch,western,grilled,main course,non-vegetarian,mild,everyday,high protein,other,soft,1bvhwbp
+dahi bhalla,adult,snacks,north indian,steamed,appetizer,vegetarian,medium,everyday,high protein,punjabi,soft,1bvf8uk
+gulab jamun trifle,senior citizen,dessert,indian fusion,baked,dessert,vegetarian,mild,festive,high carb,indian fusion,custardy,1bv75js
+thukpa,senior citizen,lunch,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,tibetan,noodly,1bv3ad4
+hariyali chicken tikka,adult,dinner,indian,grilled,main course,non-vegetarian,medium,festive,high protein,north indian,soft,1buu9d7
+chole,senior citizen,lunch,north indian,stir-fried,appetizer,vegetarian,medium,festive,high protein,punjabi,soft,1buqxyy
+daliya,adult,lunch,north indian,steamed,main course,vegetarian,mild,everyday,high protein,punjabi,soft,1buoqpf
+vada sambhar chutney,senior citizen,breakfast,south indian,steamed,appetizer,vegetarian,medium,everyday,high fiber,tamil,soft,1buof2o
+kolkata style chicken biryani,adult,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high carb,bengali,soft,1bukti4
+chili pakoda,adult,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high carb,bengali,crispy,1bujsyj
+grilled paneer tikka,adult,dinner,indian,grilled,main course,vegetarian,mild,everyday,high protein,indian,soft,1bu6fty
+stuffed tomato gravy,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,indian,soft,1bu0vp7
+puliyogare rice,adult,lunch,south indian,steamed,main course,vegetarian,medium,everyday,high carb,tamil,soft,1btvjcw
+bhel,adult,snacks,indian,stir-fried,snack,vegetarian,mild,everyday,high carb,indian,crunchy,1btulqf
+mango ice cream,child,dessert,indian,frozen,dessert,vegetarian,mild,everyday,high carb,indian,smooth,1btuiv5
+sewaiya,senior citizen,snacks,north indian,steamed,snack,vegetarian,mild,everyday,high carb,punjabi,soft,1bt9ns7
+chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1bt85g4
+chicken biryani,senior citizen,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high carb,mughlai,soft,1bt7un1
+mangalore style chicken ghee roast,adult,dinner,south indian,grilled,main course,non-vegetarian,medium,festive,high protein,mangalore,tender,1bt6nd7
+sausages in soy & toasted buns,adult,snacks,fusion,grilled,appetizer,non-vegetarian,mild,everyday,high protein,fusion,crunchy,1bt6319
+vermicelli kunafa,senior citizen,dinner,fusion,baked,dessert,vegetarian,mild,festive,high carb,fusion,soft,1bt5jzk
+aaloo shimla mirch,adult,lunch,indian,steamed,thaali,vegetarian,mild,everyday,high fiber,indian,soft,1bt0pr4
+aloo paratha,adult,breakfast,north indian,grilled,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1bsxrrv
+murmura poha,child,snacks,indian,steamed,snack,vegetarian,mild,everyday,high carb,indian,crunchy,1bsw1of
+honey cappuccino,child,snacks,fusion,baked,dessert,vegetarian,mild,everyday,high carb,other,smooth,1bsvquj
+tandoori chicken,adult,dinner,indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,tender,1bsqpmk
+grilled chicken skewers,senior,lunch,indo-western,grilled,main course,non-vegetarian,mild,festive,high protein,punjabi,tender,1bspm00
+aloo bukhara and truffle mushroom spaghetti,adult,dinner,fusion,stir-fried,main course,non-vegetarian,medium,everyday,high protein,italian,soft,1bsijn5
+chicken mumtaz korma,adult,dinner,north indian,stir-fried,main course,non-vegetarian,medium,everyday,high protein,punjabi,creamy,1bsg4b1
+chicken tikka masala,adult,lunch,indian,grilled,main course,non-vegetarian,medium,festive,high protein,indian,soft,1bsf7j9
+desi-style pasta,senior,dinner,indo-western,stir-fried,appetizer,non-vegetarian,mild,everyday,high carb,italian,soft,1bseq11
+mango sticky rice,adult,dessert,fusion,steamed,dessert,vegetarian,mild,everyday,high carb,thai,sticky,1bsaza5
+pav bhaji with aamras,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1bs5gw0
+luchi and aloo dum,senior,dinner,east indian,steamed,main course,vegetarian,medium,festive,high carb,bengali,soft,1bs4hhf
+Ras Malai,senior citizen,dessert,Indian,baked,dessert,vegetarian,mild,festive,high carb,Indian,creamy,1bs3pmv
+Vada Pav,adult,snacks,Indian,steamed,street food,vegetarian,medium,everyday,high carb,Maharashtrian,soft,1bs1mwj
+Chaat,senior citizen,snacks,Indian,grilled,appetizer,vegetarian,mild,brunch,high protein,Indian,crispy,1brs1d3
+Green moong sprouts dal,adult,dinner,Indian,stir-fried,main course,vegetarian,medium,everyday,high protein,Indian,soft,1brnwr2
+Rava Appam,senior citizen,breakfast,South Indian,steamed,appetizer,vegetarian,mild,festive,high protein,Tamil,soft,1brl8jp
+Onion cheese pakora,adult,snacks,Indian,fried,appetizer,vegetarian,medium,everyday,high carb,Indian,crispy,1brixkp
+Coconut Kheer Recipe,senior citizen,dinner,Indian,boiled,dessert,vegetarian,mild,festive,high carb,Indian,creamy,1brdznl
+chilla,senior citizen,snacks,Indian,stir-fried,snack,vegetarian,mild,everyday,high protein,Indian,soft,1brdt6y
+Chana masala & aloo gobi,adult,dinner,Indian,stir-fried,main course,vegetarian,medium,everyday,high protein,Indian,soft,1brds25
+Steamed Peanuts,senior citizen,snacks,Indian,steamed,snack,vegetarian,mild,everyday,high protein,Indian,crispy,1brc7yb
+idli,child,breakfast,south,steamed,appetizer,vegetarian,mild,everyday,high,tamil,soft,1brb3j4
+besan,adult,breakfast,indian,curried,main,vegetarian,medium,everyday,high,punjabi,smooth,1bqtkxr
+cashew,adult,dinner,indian,stir-fried,main,non-vegetarian,medium,festive,high,gujarati,crunchy,1bqpg5h
+fried,child,snacks,fusion,fried,snack,vegetarian,mild,everyday,high,indian,soft,1bqlnv1
+millet,adult,dinner,indian,steamed,main,vegetarian,mild,everyday,high,indian,soft,1bqihag
+chana,adult,dinner,indian,stir-fried,snack,vegetarian,mild,everyday,high,indian,smooth,1bqglwd
+butter,adult,dinner,indian,grilled,main,non-vegetarian,spicy,everyday,high,indian,soft,1bqet93
+dahi,adult,dinner,north,steamed,dessert,vegetarian,mild,festive,high,punjabi,soft,1bq6q2r
+grilled,adult,dinner,indian,grilled,main,non-vegetarian,medium,dinner,high,indian,soft,1bq0hiq
+meghana biryani,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1bq0fl8
+dahi wale karele,adult,snacks,north indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,crispy,1bq0eq8
+mutton kosha,senior citizen,dinner,indian,stir-fried,main course,non-vegetarian,medium,festive,high protein,bengali,soft,1bpvnle
+chole chawal,adult,lunch,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1bpspjo
+grilled paneer tikka,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,soft,1bpoudl
+soy 65,adult,snacks,fusion,stir-fried,appetizer,non-vegetarian,medium,everyday,high protein,indian,crispy,1bpomuo
+baked samosas,adult,snacks,indian,baked,snack,vegetarian,mild,everyday,high carb,indian,crispy,1bpo62i
+paneer tikka,adult,lunch,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,soft,1bpje40
+dahi bara masala,adult,snacks,north indian,steamed,appetizer,vegetarian,medium,everyday,high protein,punjabi,soft,1bpcjqx
+fish-radish gravy with rice,senior citizen,dinner,fusion,stir-fried,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1bp78mw
+chili shrimp,adult,evening,fusion,grilled,appetizer,non-vegetarian,medium,everyday,high protein,indian,crispy,1bp712b
+jumbo prawn,adult,dinner,indian,curried,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1bp6lnz
+jamun,child,snacks,indian,stir-fried,dessert,vegetarian,mild,everyday,high fiber,indian,smooth,1bp55te
+pink sauce,adult,lunch,fusion,stir-fried,appetizer,non-vegetarian,mild,everyday,high protein,indian,creamy,1bp3kcs
+paneer masala,adult,dinner,indian,curried,main course,vegetarian,medium,festive,high protein,indian,smooth,1bp2u4u
+spicy grilled,adult,dinner,indian,grilled,main course,non-vegetarian,spicy,everyday,high protein,indian,tender,1bp22us
+suji ka,child,dinner,indian,stir-fried,dessert,vegetarian,mild,festive,high carb,indian,creamy,1bozj3b
+pasta,child,lunch,indo-western,boiled,lunch,vegetarian,mild,everyday,high carb,indian,soft,1bowvdz
+fried rice,adult,lunch,fusion,fried,main course,non-vegetarian,medium,everyday,high carb,indian,soft,1bow1x7
+maggi,child,snacks,indo-western,stir-fried,snack,vegetarian,mild,everyday,high carb,indian,soft,1bovsme
+chapati,senior citizen,lunch,north indian,steamed,main course,vegetarian,mild,everyday,high carb,punjabi,soft,1bojqtz
+sabzi ki biryani,senior citizen,dinner,indian,steamed,main course,vegetarian,medium,festive,high carb,indian,soft,1boih4m
+chicken curry,adult,lunch,indian,curried,main course,non-vegetarian,medium,everyday,high carb,indian,smooth,1boh2gy
+biryani,senior citizen,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high carb,indian,soft,1boa78y
+anjal fry,adult,dinner,north indian,fried,main course,vegetarian,mild,everyday,high protein,punjabi,soft,1bo9c58
+chicken tandoori,adult,dinner,indian,air fried,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1bo9b4q
+egg samosa,senior citizen,dinner,indian,fried,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1bo7wj1
+chicken curry,adult,lunch,indian,curried,main course,non-vegetarian,medium,everyday,high carb,indian,soft,1bo79kp
+litti chokha,senior citizen,lunch,north indian,steamed,appetizer,vegetarian,medium,festive,high carb,bihar,soft,1bo6e66
+chicken soup,senior citizen,lunch,western,boiled,soup,non-vegetarian,mild,everyday,high protein,western,creamy,1bo4gvl
+soy chilli manchurian,adult,lunch,fusion,stir-fried,starter,vegetarian,medium,everyday,high protein,india,crunchy,1bo3r0g
+steamed mulberry,adult,snacks,indian,steamed,snack,vegetarian,mild,everyday,high fiber,india,soft,1bo2xna
+holi feast,adult,dinner,indian,steamed,main course,vegetarian,medium,festive,high protein,india,soft,1bnmot1
+steamed idli,senior citizen,snacks,indian,steamed,snack,vegetarian,mild,festive,high fiber,india,soft,1bnlntn
+kadhi pakora and rice,adult,dinner,indian,deep-fried,appetizer,vegetarian,medium,everyday,high carb,punjabi,crispy,1bnjgax
+rasam,senior citizen,dinner,south indian,stir-fried,appetizer,vegetarian,medium,traditional,high protein,south indian,liquid,1bnh7pv
+cheesy chicken cone,child,dinner,fusion,grilled,appetizer,non-vegetarian,mild,everyday,high protein,india,crispy,1bnd44w
+mutton dum biryani,adult,lunch,north indian,steamed,main course,non-vegetarian,medium,festive,high protein,india,soft,1bnbve2
+samosas,adult,snacks,indian,baked,appetizer,vegetarian,mild,everyday,high protein,india,crispy,1bnb4if
+black chana,senior citizen,lunch,north indian,steamed,appetizer,vegetarian,mild,everyday,high protein,punjabi,soft,1bnafa3
+puri aloo dum,adult,dinner,indian,steamed,main course,vegetarian,mild,festive,high carb,indian,soft,1bna2lp
+aamras,senior citizen,lunch,north indian,steamed,lunch,vegetarian,medium,festive,high carb,punjabi,soft,1bn9g47
+chanar pulao,adult,dinner,indian,steamed,main course,vegetarian,medium,happy holi,high protein,tagore household,soft,1bn87qo
+paplet thali,adult,dinner,goan,grilled,appetizer,non-vegetarian,medium,festive,high protein,goa,soft,1bn4e4g
+basundi,senior citizen,dinner,indian,steamed,dessert,vegetarian,mild,festive,high carb,gujarati,creamy,1bmu8rz
+beetroot raita,adult,lunch,indian,stir-fried,side dish,vegetarian,mild,everyday,high fiber,indian,smooth,1bmptgw
+stuffed potatoes,senior citizen,dinner,indian,baked,side dish,vegetarian,mild,everyday,high carb,indian,soft,1bmov84
+mutton curry,adult,dinner,indian,curried,main course,non-vegetarian,medium,festive,high protein,indian,tender,1bmo2h3
+pav bhaji,adult,lunch,indian,grilled,appetizer,vegetarian,mild,office,high protein,indian,soft,1bmk6by
+chicken 65,adult,snacks,south indian,baked,appetizer,non-vegetarian,medium,everyday,high protein,tamil,crispy,1bmje1l
+aloo paneer kulcha,senior citizen,dinner,north indian,baked,appetizer,vegetarian,mild,festive,high protein,punjabi,soft,1bmj720
+aloo khabi,adult,lunch,indian,steamed,appetizer,vegetarian,mild,everyday,high fiber,indian,soft,1bmi1zq
+gulab jamun,child,dessert,indian,steamed,dessert,vegetarian,mild,festive,high carb,indian,soft,1bmgy2b
+dal pakwaan,adult,snacks,indian,steamed,appetizer,vegetarian,medium,everyday,high protein,gujarati,soft,1bmfg7l
+gujjiya,child,dessert,indian,steamed,dessert,vegetarian,mild,festive,high carb,gujarati,soft,1bmfezz
+pakoras,adult,snacks,indian,fried,snack,vegetarian,mild,festive,high carb,indian,crispy,1bmea38
+holi mubarak,child,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1bme11c
+east indian sunday stew,adult,dinner,east indian,stewed,main course,vegetarian,mild,everyday,high protein,east india,soft,1bmdlvm
+gulab jamun,child,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1bm8nki
+arbi patte ki pakodi,adult,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1blxa9l
+butter chicken,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,creamy,1blrfd4
+egg masala,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1blqj28
+mumbai ka sevpuri,adult,snacks,indian,grilled,street food,vegetarian,medium,everyday,high carb,mumbai,crispy,1bln4hp
+grilled chicken tikka wrap,adult,breakfast,indian,grilled,wrap,vegetarian,mild,everyday,high protein and fiber,indian,soft,1bllbdl
+aloo tikki,senior citizen,breakfast,indian,grilled,appetizer,vegetarian,mild,festive,high protein,indian,crunchy,1bljjvj
+dal bhaat,senior citizen,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1bl5o05
+baingan ke pakode,senior citizen,snacks,indian,fried,appetizer,vegetarian,medium,festive,high carb,bengali,crispy,1bl5myk
+butter chicken and pulao,adult,lunch,north indian,grilled,main course,non-vegetarian,medium,everyday,high protein,punjabi,soft,1bkvz5d
+curd rice,senior citizen,breakfast,south indian,steamed,main course,vegetarian,mild,everyday,high protein,tamil,soft,1bkv308
+sooji nariyal peda,senior citizen,dessert,indian,stir-fried,dessert,vegetarian,mild,everyday,high carb,indian,soft,1bktiq0
+Aloo Tikki,senior citizen,breakfast,indian,grilled,breakfast,vegetarian,mild,everyday,high protein,indian,soft,1bksl31
+Steamed Idli,adult,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high protein,indian,soft,1bkqrro
+Spicy Chicken Popcorn,adult,snacks,indian,fried,snack,non-vegetarian,spicy,iftar,high protein,indian,crispy,1bkhu73
+Gobhi ke pakode,adult,snacks,indian,fried,appetizer,vegetarian,mild,everyday,high carb,indian,crispy,1bk9s2p
+Tomato Bonda,child,dessert,fusion,baked,dessert,vegetarian,mild,everyday,high carb,fusion,soft,1bk7eh7
+Tomato Bonda,child,snacks,south indian,steamed,appetizer,vegetarian,mild,everyday,high protein,tamil,soft,1bk6x30
+Pav bhaji,adult,lunch,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1bk39ey
+Aloo Tikki,adult,lunch,indian,grilled,main course,vegetarian,mild,lunch,high protein,indian,soft,1bk324n
+Chana Masala,adult,lunch,indian,stir-fried,main course,vegetarian,mild,everyday,high protein,punjab,smooth,1bk1tw6
+Easy Brunch,senior citizen,brunch,indian,baked,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1bk1jpp
+korma,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,indian,creamy,1bjrgrd
+onion bread pakora,adult,dinner,indian,fried,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1bjpgxc
+dukra maas,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,soft,1bjpdzr
+butter chicken,adult,dinner,fusion,baked,main course,non-vegetarian,medium,everyday,high protein,indian,creamy,1bjkm8o
+mushroom rice,adult,dinner,indian,steamed,main course,vegetarian,mild,everyday,high carb,indian,soft,1bjijpr
+chole bhature,adult,lunch,indian,stir-fried,street food,vegetarian,medium,everyday,high protein,punjabi,soft,1bjhfms
+pav bhaji,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1bjhdrk
+moondal halwa,senior citizen,dinner,indian,stir-fried,dessert,vegetarian,mild,festive,high carb,indian,soft,1bjgedv
+tandoori chicken,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1bjfzog
+veg noodles,adult,dinner,fusion,fried,appetizer,vegetarian,medium,everyday,high carb,indian,soft,1bjfxcr
+mini pan pizza,senior citizen,snacks,fusion,baked,appetizer,non-vegetarian,mild,everyday,high carb,other,crunchy,1bjbpce
+kulthi dal,senior citizen,dinner,south indian,stir-fried,main course,vegetarian,medium,everyday,high protein,south indian,creamy,1bj8ayo
+aloo paneer dhania parantha,adult,dinner,north indian,grilled,main course,vegetarian,medium,festive,high carb,doaba,soft,1bj3dv0
+matar-paneer-pulao,adult,dinner,indian,steamed,main course,vegetarian,medium,festive,high carb,indian,soft,1bj3dv0
+moru,adult,snacks,south indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,south indian,liquid,1bj1ycj
+chicken curry,senior citizen,dinner,indian,curried,main course,non-vegetarian,medium,festive,high carb,indian,smooth,1bj0zi5
+fried tofu,adult,lunch,fusion,fried,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1bj0e1i
+paratha aloo patties,adult,dinner,indian,fried,appetizer,non-vegetarian,medium,festive,high carb,indian,soft,1bitesd
+pakoras,adult,snacks,indian,fry,snack,vegetarian,mild,everyday,high carb,indian,crispy,1birpoz
+bread snacks,adult,snacks,indian,baked,snack,vegetarian,mild,everyday,high carb,indian,soft,1bip4bn
+steamed rice with vegetables,adult,lunch,indian,steamed,lunch,vegetarian,mild,everyday,high fiber,indian,soft,1bip38h
+chicken drumsticks,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1bikxer
+puri bhaji,adult,lunch,indian,steamed,appetizer,vegetarian,medium,everyday,high fiber,indian,soft,1bikr1x
+kanji,adult,lunch,south indian,steamed,main course,vegetarian,mild,everyday,high carb,kerala,soft,1biiyn9
+bombay sandwich,adult,snacks,indo-western,grilled,appetizer,non-vegetarian,mild,street food,high carb,mumbai,soft,1bikxer
+chili pork,adult,dinner,fusion,stir-fried,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1bii9un
+kerala style pork fry,adult,dinner,south indian,fried,main course,non-vegetarian,medium,festive,high protein,kerala,crispy,1bii5yg
+pepper beef goan style,adult,dinner,goan,grilled,main course,non-vegetarian,medium,everyday,high protein,goa,tender,1bii4s6
+pina colada and cashew feni based cocktail,adult,snacks,fusion,mixed,cocktail,non-vegetarian,mild,everyday,low fat,indian,liquid,1bii3p9
+goan mackarel rava fry,adult,dinner,goan,stir-fried,appetizer,non-vegetarian,medium,festive,high protein,goa,crispy,1bii2re
+pepper pork goan,adult,dinner,goan,grilled,main course,non-vegetarian,medium,festive,high protein,goa,tender,1bii21p
+goan shrimp thali,adult,dinner,goan,grilled,main course,non-vegetarian,medium,festive,high protein,goa,soft,1bii1id
+peri peri mandi,adult,dinner,indo-western,grilled,main course,non-vegetarian,medium,festive,high protein,goa,soft,1bihzwo
+gulab jamoon falooda,senior citizen,dessert,indian,steamed,dessert,vegetarian,mild,festive,high carb,indian,soft,1bihyld
+steamed rice,senior citizen,lunch,indian,steamed,side dish,vegetarian,mild,everyday,high carb,indian,soft,1bih66h
+paneer cheese balls,adult,snacks,indian,fried,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1bift3d
+dhokla,adult,breakfast,indian,steamed,appetizer,vegetarian,mild,everyday,high protein,gujarati,soft,1bif7dj
+omelette,adult,morning,indian,fried,breakfast,vegetarian,mild,everyday,high protein,indian,soft,1bie7u7
+poha,senior citizen,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high carb,indian,soft,1bic19n
+allu gobi mashroom panner,adult,snacks,indian,fried,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1bibe90
+Vegetable Pulao,senior citizen,lunch,Indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1biabw4
+Dosa,child,breakfast,South Indian,steamed,dessert,vegetarian,mild,festive,high carb,bengali,soft,1bi07o9
+Tandoori Chicken Wrap,adult,dinner,Indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1bi0135
+Rasmalai,senior citizen,dinner,Indian,steamed,dessert,vegetarian,mild,festive,high carb,indian,creamy,1bhzshl
+Kerala Sadhya,senior citizen,lunch,South Indian,steamed,main course,vegetarian,medium,festive,high protein,kerala,soft,1bhwcyd
+Mackerel Coconut Curry,adult,dinner,South Indian,curried,main course,non-vegetarian,medium,everyday,high protein,south indian,soft,1bhwbpj
+Parippu curry,senior citizen,dinner,South Indian,curried,main course,vegetarian,medium,everyday,high carb,south indian,soft,1bhw9lp
+Crispy Bhindi,adult,snacks,North Indian,fried,appetizer,vegetarian,medium,everyday,high protein,punjabi,crispy,1bhv8ib
+Malwani Chicken,adult,dinner,Indian,grilled,main course,non-vegetarian,medium,festive,high protein,maharashtrian,tender,1bhu8e9
+Chicken Pizza Momos,child,snacks,Fusion,steamed,appetizer,non-vegetarian,medium,everyday,high protein,fusion,soft,1bhrv63
+pav bhaji,senior citizen,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1bhr2ii
+grilled paneer tikka,adult,late breakfast,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1bhmzb5
+chaat,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,crunchy,1bhmu9m
+grilled paneer tikka,adult,lunch,indian,grilled,lunch,vegetarian,mild,everyday,high protein,indian,soft,1bhml84
+horsegram dal,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,north indian,smooth,1bhlt5b
+omelette,senior citizen,breakfast,indian,fried,breakfast,neither,mild,everyday,high protein,indian,solid,1bhkpqg
+mistake omelette,senior citizen,breakfast,indian,fried,appetizer,non-vegetarian,mild,everyday,high protein,indian,soft,1bhiw6y
+kerala menu,adult,dinner,south indian,steamed,menu,vegetarian,mild,everyday,high fiber,kerala,soft,1bhhgdk
+sweet cherry buns,senior citizen,dinner,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1bh7582
+sabudana poha,adult,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high carb,indian,soft,1bh35d6
+chicken sliders,adult,dinner,fusion,grilled,burger,non-vegetarian,medium,everyday,high protein,other,soft,1bh2w0r
+paneer pakoda,adult,dinner,indian,fried,appetizer,vegetarian,mild,festive,high protein,indian,crispy,1bh0ykh
+dal chawal,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1bgy44j
+kala chana masala,adult,lunch,north indian,stir-fried,appetizer,vegetarian,medium,everyday,high carb,punjabi,soft,1bgxoqu
+panner tikka,senior citizen,dinner,indian,grilled,appetizer,vegetarian,medium,everyday,high protein,punjabi,soft,1bgvew5
+chicken curry,adult,dinner,indian,curried,main course,non-vegetarian,medium,everyday,high protein,indian,smooth,1bguyep
+dahi bhalla,senior citizen,snacks,north indian,deep fried,appetizer,vegetarian,medium,festive,high fiber,punjabi,crispy,1bgumbu
+chole bhature,adult,breakfast,north indian,stir-fried,main course,vegetarian,medium,festive,high carb,punjabi,soft,1bgqmnf
+galouti kebab,adult,snacks,north indian,grilled,appetizer,vegetarian,mild,everyday,high protein,north indian,soft,1bgosii
+masala dose,adult,breakfast,south indian,steamed,appetizer,vegetarian,medium,everyday,high carb,tamil,crispy,1bgo4wd
+basmati rice,adult,dinner,indian,steamed,side dish,vegetarian,mild,everyday,high carb,indian,soft,1bgknsh
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1bghq7j
+sabudana khichdi,adult,lunch,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1bgeibt
+gujarati kebab,adult,dinner,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,gujarati,soft,1bgd6dg
+holi thali,senior citizen,dinner,indian,steamed,main course,vegetarian,mild,festive,high protein,indian,soft,1bgce8k
+cucumber pancake,senior citizen,breakfast,indian,grilled,appetizer,vegetarian,mild,festive,high fiber,indian,crispy,1bgbeg9
+malabar parotta,senior citizen,dinner,south indian,steamed,main course,vegetarian,medium,everyday,high carb,malabar,soft,1bg8ido
+panner tikka pizza,adult,dinner,fusion,baked,appetizer,vegetarian,mild,everyday,high protein,indian,chewy,1bg88ta
+beef dry roast,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1bg6z8q
+steamed rotis,senior citizen,snacks,indian,steamed,snack,vegetarian,mild,everyday,high carb,indian,soft,1bg3zmi
+poha,adult,lunch,north indian,stir-fried,main course,vegetarian,mild,everyday,high carb,punjabi,soft,1bg2or2
+chicken tikka masala,adult,lunch,indian,grilled,main course,non-vegetarian,medium,saturday lunch,high protein,punjabi,soft,1bg1l77
+poha with eggs,senior citizen,breakfast,indian,fried,breakfast,non-vegetarian,mild,everyday,high protein,punjabi,soft,1bfyy27
+malpua,senior citizen,dessert,indian,fried,dessert,vegetarian,mild,festive,high carb,gujarati,soft,1bfo0a0
+aloo tikki,child,lunch,north indian,grilled,appetizer,vegetarian,medium,everyday,high protein,punjabi,crispy,1bfmidp
+chicken sandwich,adult,lunch,western,grilled,sandwich,non-vegetarian,mild,everyday,high protein,punjabi,soft,1bfivzu
+arhar dal,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1bfits3
+panner tikka biryani,senior citizen,dinner,indian,baked,main course,vegetarian,medium,festive,high carb,punjabi,soft,1bfihc9
+masala dosa,senior citizen,breakfast,south indian,steamed,main course,vegetarian,medium,festive,high carb,tamil nadu,thin,1bfhag2
+aloo tikki,child,snacks,indian,fried,snack,vegetarian,mild,everyday,high carb,punjabi,soft,1bffcj7
+dahi wale aloo,adult,lunch,indian,grilled,appetizer,vegetarian,medium,everyday,high protein,north indian,soft,1bfd30z
+rajma chawal,senior citizen,dinner,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1bfcuv4
+cold coffee,adult,snacks,indian,steamed,dessert,vegetarian,mild,everyday,high carb,indian,smooth,1bfbc6o
+veg fried rice,senior citizen,lunch,indian,fried,main course,vegetarian,mild,everyday,high carb,indian,soft,1bfaaz3
+chaat,senior citizen,snacks,indian,stir-fried,street food,vegetarian,mild,everyday,high protein,indian,crunchy,1bf3dhz
+aloo baingan,adult,dinner,indian,grilled,main course,vegetarian,medium,everyday,high carb,indian,soft,1bf3c8h
+gulab jamun,senior citizen,snacks,indian,baked,dessert,vegetarian,mild,everyday,high carb,indian,soft,1beshns
+balochi chicken tikka,adult,dinner,indian,grilled,main course,non-vegetarian,medium,iftar,high protein,balochi,tender,1bepnl0
+indian street sandwich,senior citizen,snacks,indian,grilled,street food,vegetarian,mild,festive,high protein,indian,soft,1bepjxg
+oats chilla,senior citizen,breakfast,indian,steamed,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1beozi4
+vada pav,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,maharashtrian,crunchy,1beonwt
+khichdi,child,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,indian,soft,1beoc4w
+tandoori prawns,adult,snacks,indian,grilled,appetizer,non-vegetarian,medium,everyday,high protein,indian,soft,1bel8kr
+kadhi pakoda,senior citizen,snacks,north indian,fried,appetizer,vegetarian,medium,festive,high protein,punjabi,crispy,1bek6mo
+steamed idli,senior citizen,breakfast,indian,steamed,lunch,vegetarian,medium,everyday,high protein,indian,soft,1bei0sv
+manchurian,adult,snacks,indo-western,baked,appetizer,vegetarian,mild,everyday,high protein,indo-chinese,crispy,1behbsp
+mixed vegetable sambar,senior citizen,dinner,indian,steamed,side dish,vegetarian,medium,everyday,high fiber,indian,soft,1beh84m
+grilled chicken tikka,adult,lunch,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1beh33p
+jeera rice,adult,dinner,indian,baked,main course,non-vegetarian,medium,festive,high protein,indian,soft,1beghp6
+samosa,child,snacks,indian,fried,appetizer,vegetarian,mild,everyday,high carb,indian,crispy,1bedhui
+goan beef roast sandwich,adult,snacks,goan,grilled,sandwich,non-vegetarian,medium,everyday,high protein,goa,tender,1bdrx6q
+gobi manchurian,senior citizen,evening snacks,fusion,stir-fried,snack,vegetarian,mild,everyday,high protein,other,crunchy,1bdzfdv
+grilled chicken with rice,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1bdxr2z
+chicken spring rolls,child,dinner,fusion,stir-fried,appetizer,non-vegetarian,medium,everyday,high carb,other,crispy,1bdxhyc
+sukoon,adult,dessert,indo-western,baked,dessert,vegetarian,mild,everyday,high carb,indo-western,soft,1bdxcmh
+paneer butter masala,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,indian,creamy,1bduztl
+chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1bdtyso
+dahi boondi chaat,senior citizen,snacks,north indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,punjabi,crunchy,1bdt5ii
+south indian filter coffee,senior citizen,breakfast,south indian,brewed,dessert,vegetarian,mild,everyday,high carb,south india,smooth,1bdrwd3
+bhindi fry,senior citizen,snacks,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,indian,crispy,1bdnd47
+mixed veg white pulao with chicken kassa,adult,dinner,indian,stir-fried,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1bdn582
+hyderabadi chicken pulao,adult,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high protein,hyderabadi,soft,1bdmrwp
+sabudana khichdi,adult,dinner,indian,steamed,main course,vegetarian,mild,everyday,high carb,maharashtrian,soft,1bdit20
+palak dal,adult,dinner,north indian,curried,main course,vegetarian,medium,everyday,high protein,punjabi,creamy,1bd8y67
+chana dal vada,senior citizen,snacks,north indian,fried,appetizer,vegetarian,medium,festive,high protein,punjabi,crispy,1bd2ltv
+fried rice with chili garlic oil,adult,dinner,fusion,stir-fried,main course,vegetarian,medium,everyday,high carb,indian,soft,1bd06sm
+steamed idli,child,breakfast,indian,steamed,snack,vegetarian,mild,everyday,high carb,indian,soft,1bcz82u
+cheesy chicken fritters,adult,snacks,fusion,fried,appetizer,non-vegetarian,mild,everyday,high protein,indian,crispy,1bcy93e
+chinese style chilli paneer and fried rice,adult,lunch,indian,fried,main course,vegetarian,medium,everyday,high carb,chinese,soft,1bcwy6m
+sambar,senior citizen,lunch,south indian,steamed,main course,vegetarian,medium,everyday,high protein,tamil,soupy,1bcv5n2
+rava idli,senior citizen,lunch,south indian,steamed,appetizer,vegetarian,mild,everyday,high protein,tamil,soft,1bctbi6
+chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1bcsw6y
+coffee,adult,breakfast,indo-western,brewed,beverage,vegetarian,mild,everyday,high protein,indo-western,smooth,1bcrzu7
+crispy veggie cheese balls,adult,snacks,fusion,fried,appetizer,vegetarian,mild,iftar,high protein,other,crispy,1bcpsu0
+masala dosa,adult,snacks,indian,stir-fried,snack,vegetarian,medium,street food,high carb,south indian,thin,1bcnpz8
+lobia palak,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,festive,high protein,punjabi,soft,1bc8o8s
+valvan masala kairi,senior citizen,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high fiber,indian,soft,1bc7hqb
+mutter panner,adult,lunch,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,other,soft,1bc74yd
+aloo parantha,adult,breakfast,north indian,grilled,appetizer,vegetarian,medium,everyday,high carb,punjabi,soft,1bc4pai
+khandvi,adult,lunch,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,gujarati,soft,1bc1vsc
+steamed rice with vegetables,adult,lunch,indian,steamed,main course,vegetarian,mild,everyday,high protein,indian,soft,1bbz3gz
+suji handvo,senior citizen,snacks,indian,steamed,snack,vegetarian,medium,everyday,high protein,gujarati,soft,1bbyw6b
+blueberry cheesecake,senior citizen,dessert,fusion,baked,dessert,vegetarian,mild,everyday,high carb,western,creamy,1bbxp0t
+paneer butter masala,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,creamy,1bbthmj
+grilled paneer tikka,adult,lunch,indo-western,grilled,appetizer,vegetarian,mild,everyday,high protein,india,soft,1bbrovw
+bhel puri,senior citizen,snacks,indian,stir-fried,snack,vegetarian,medium,street food,high carb,maharashtrian,crispy,1bbirfn
+grilled chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,india,tender,1bbdyfb
+dal and mushroom egg with peas,adult,dinner,fusion,stir-fried,appetizer,vegetarian,medium,everyday,high protein,fusion,soft,1bbdq3b
+curd rice,senior citizen,lunch,south indian,steamed,main course,vegetarian,mild,everyday,high carb,south india,smooth,1bbcmn3
+gandharaaj lebu,senior citizen,dinner,east indian,steamed,dessert,vegetarian,mild,festive,high carb,bengali,soft,1bb7uaw
+croque memsahib,senior citizen,dinner,fusion,grilled,appetizer,non-vegetarian,medium,festive,high protein,indian,crispy,1bb7f0h
+ithwaar naashta,adult,breakfast,north indian,grilled,breakfast,vegetarian,mild,everyday,high protein,punjabi,soft,1bb4ayw
+green grams curry,senior citizen,lunch,indian,stir-fried,side dish,vegetarian,medium,everyday,high protein,punjabi,soft,1bb17hn
+rose pistachio lamington squares,senior citizen,dessert,fusion,baked,dessert,vegetarian,mild,festive,high carb,australian,cake-like,1bam2xv
+spinach pasta,senior citizen,dinner,fusion,stir-fried,main course,vegetarian,mild,everyday,high protein/high fiber/high carb/low fat,australian,soft,1bajg20
+grilled chicken burger,adult,dinner,indo-western,grilled,burger,non-vegetarian,medium,everyday,high protein,indo-western,soft,1baisq5
+kimchi fried rice,adult,dinner,fusion,stir-fried,main course,vegetarian,medium,everyday,high protein/high fiber/high carb/low fat,indo-western,soft,1bai7ha
+massala pasta,adult,dinner,indo-western,stir-fried,pasta,vegetarian,medium,everyday,high carb,indo-western,soft,1bai0ea
+dhaba style dal tadka,adult,lunch,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,creamy,1bafx8g
+pav bhaji,adult,brunch,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1ba9ll7
+tandoori chicken,senior citizen,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1ba7gs0
+sirke wala pyaz,adult,lunch,north indian,grilled,appetizer,vegetarian,medium,everyday,high protein,punjabi,soft,1b9wuy3
+moong dal khichdi,adult,dinner,indian,stir-fried,main course,vegetarian,mild,everyday,high carb,indian,creamy,1b9ubt3
+sweet potato chaat,senior citizen,snacks,indian,stir-fried,snack,vegetarian,mild,festive,high fiber,indian,crunchy,1b9tdv4
+grilled chicken tikka masala,adult,dinner,indo-western,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1b9ssdw
+chaatpata,adult,snacks,indian,grilled,appetizer,vegetarian,medium,everyday,high protein,indian,crispy,1b9ntb5
+sabudana vada,adult,snacks,indian,steamed,appetizer,vegetarian,medium,festive,high protein,maharashtrian,crispy,1b9m3bq
+palak methi aloo,adult,lunch,north indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,punjabi,soft,1b9lkkv
+makki ki stuffed roti with palak kadi,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1b9jdnb
+paneer tikka masala,adult,dinner,north indian,grilled,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1b9jazf
+veg pulao,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1b9i2bu
+paneer kolhapuri,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,maharashtrian,soft,1b9hmoh
+aloo paratha,adult,breakfast,north indian,steamed,main course,vegetarian,mild,festive,high carb,punjabi,soft,1b9h0u3
+cuban espresso,adult,dessert,indo-western,brewed,dessert,vegetarian,mild,everyday,high protein,indian,smooth,1b9d3jd
+grilled tomatoes,child,breakfast,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1b98zu4
+aloo tikki,child,lunch,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1b8zpp6
+aloo tikki,child,lunch,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,crunchy,1b8yu9i
+pumpkin roti with gur aam,adult,dinner,north indian,baked,main course,vegetarian,mild,everyday,high carb,punjabi,soft,1b8yovd
+pyaz ka paratha,senior citizen,dinner,north indian,grilled,main course,vegetarian,mild,everyday,high carb,punjabi,soft,1b8y6fe
+paneer paratha,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1b8w4th
+sunkissed toasts,child,snacks,fusion,toasted,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1b8vr8z
+chicken kebab,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,tender,1b8v0lm
+egg masala dosa,senior citizen,breakfast,south indian,steamed,main course,vegetarian,medium,everyday,high carb,tamil nadu,soft,1b8uiuw
+manchurian,senior citizen,lunch,indo-chinese,steamed,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1b8ud85
+choor choor naan,adult,lunch,north indian,baked,appetizer,vegetarian,medium,traditional,high carb,punjabi,soft,1b8snk9
+drumstick sambar,senior citizen,lunch,south indian,stir-fried,starter,vegetarian,medium,festive,high protein,tamil,thick,1b8r33h
+strawberry milkshake,adult,dessert,fusion,mixed,dessert,vegetarian,mild,everyday,high carb,indian,creamy,1b8q3lt
+chana masala,adult,dinner,indian,stir-fried,main course,vegetarian,mild,family,high protein,indian,creamy,1b8ko1u
+vadapav,adult,snacks,indian,fried,snack,vegetarian,medium,street,high carb,mumbai,crispy,1b8da3d
+desi burrito plate,adult,lunch,fusion,stir-fried,appetizer,vegetarian,medium,everyday,high protein,other,crunchy,1b86t3z
+quiche,adult,dinner,fusion,baked,dessert,vegetarian,mild,iftar,high protein,other,soft,1b866t2
+indian sweet bread,adult,dessert,indian,baked,dessert,vegetarian,mild,comfort food,high carb,indian,soft,1b85prq
+crispy sabudana vada,adult,snacks,indian,fried,appetizer,vegetarian,medium,festive,high carb,maharashtrian,crispy,1b838a7
+chicken tikka masala,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,tender,1b832yj
+aloo tikki,child,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1b82wcw
+dahi sandwich,child,lunch,indian,grilled,sandwich,vegetarian,mild,everyday,high protein,indian,soft,1b82kob
+mutton ghee roast,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,tender,1b805dy
+egg fried rice,adult,dinner,fusion,stir-fried,main course,vegetarian,mild,everyday,high carb,chinese,soft,1b7y587
+milai tadka,adult,dinner,indian,stir-fried,appetizer,vegetarian,medium,festive,high protein,maharashtrian,crunchy,1b7xzwa
+falooda,senior citizen,dessert,indian,stir-fried,dessert,vegetarian,mild,everyday,high carb,indian,smooth,1b7xol3
+jalebi,senior citizen,dessert,indian,steamed,dessert,vegetarian,mild,festive,high carb,indian,soft,1b7xnv7
+pista,senior citizen,dessert,indian,stir-fried,dessert,vegetarian,mild,festive,high carb,indian,soft,1b7xfhg
+khandvi,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,gujarati,soft,1b7xbgu
+brownie,senior citizen,dessert,indo-western,baked,dessert,vegetarian,mild,everyday,high carb,indo-western,fudgy,1b7vjmk
+palak,senior citizen,breakfast,indian,grilled,appetizer,vegetarian,medium,festive,high protein,north indian,crispy,1b7v29f
+matar,adult,dinner,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1b7uoyo
+soul,adult,dinner,indo-western,baked,dessert,vegetarian,mild,everyday,high carb,indo-western,soft,1b7uctl
+mushroom,senior citizen,breakfast,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,indian,soft,1b7s044
+chicken,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,crispy,1b7oja6
+chicken biryani,senior citizen,dinner,indian,baked,main course,non-vegetarian,medium,everyday,high carb,indian,soft,1b7e1l8
+cafe coffee,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,smooth,1b7bqrw
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1b7bbco
+dosa,senior citizen,breakfast,indian,steamed,dessert,vegetarian,mild,festive,high carb,indian,soft,1b7anwk
+chicken dahi pakora,adult,snacks,indian,fried,snack,non-vegetarian,medium,iftar,high carb,indian,crispy,1b76xxg
+rajma ki kachori,adult,snacks,north indian,fried,appetizer,vegetarian,medium,festive,high protein,punjabi,crispy,1b76rqb
+veg biryani,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1b76m0z
+rajma galouti,adult,snacks,north indian,grilled,appetizer,vegetarian,medium,festive,high protein,punjabi,soft,1b75awa
+pizza dosa,adult,snacks,fusion,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,soft,1b726hm
+triangle paratha,senior citizen,breakfast,north indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,soft,1b711mm
+steamed dumplings,adult,snacks,indian,steamed,snack,vegetarian,mild,wedding,high carb,indian,soft,1b6zkei
+doaba style,adult,snacks,north indian,stir-fried,snack,vegetarian,medium,festive,high protein,punjabi,crunchy,1b6z0ed
+pasta,child,breakfast,indo-western,stir-fried,dessert,vegetarian,mild,everyday,high carb,indian,soft,1b6xsjv
+kachalu,child,snacks,north indian,fried,appetizer,vegetarian,mild,everyday,high protein,jammu,crispy,1b6u150
+veg kolhapuri,senior citizen,dinner,indian,grilled,main course,vegetarian,medium,everyday,high protein,maharashtrian,soft,1b6i86l
+somwaar quick,child,lunch,indian,steamed,main course,vegetarian,medium,everyday,high protein,indian,soft,1b6ft9n
+gulab jamun,child,dessert,indian,steamed,dessert,vegetarian,mild,everyday,high carb,indian,soft,1b6dyjs
+niramish alloo,adult,dinner,indian,steamed,main course,vegetarian,medium,festive,high protein,punjabi,soft,1b6ceco
+donne biryani,senior citizen,dinner,indian,steamed,main course,non-vegetarian,medium,everyday,high carb,indian,soft,1b6c77f
+baked samosas,child,snacks,indian,baked,snack,vegetarian,mild,everyday,high protein,indian,crispy,1b6buyx
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,punjabi,soft,1b6bns8
+tandoori chicken,adult,dinner,indian,grilled,main course,non-vegetarian,medium,festive,high protein,india,tender,1b6bja9
+palak chatni,adult,lunch,north indian,stir-fried,appetizer,vegetarian,medium,festive,high protein,punjabi,crunchy,1b69wf3
+chilli chicken,adult,snacks,fusion,stir-fried,appetizer,non-vegetarian,medium,everyday,high protein,indian,crispy,1b69pcm
+gulab jamun,senior citizen,dinner,indian,baked,dessert,vegetarian,mild,festive,high carb,punjabi,soft,1b69gat
+tofu bhurji,adult,snacks,indian,stir-fried,snack,vegetarian,medium,everyday,high protein,indian,soft,1b66joi
+herbed mushroom mac and cheese,adult,dinner,fusion,baked,appetizer,vegetarian,mild,everyday,high protein,indian,creamy,1b651k1
+papdi chaat,adult,snacks,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,north indian,crispy,1b63z1e
+fish curry,senior citizen,dinner,indian,curried,main course,non-vegetarian,medium,festive,high protein,indian,soft,1b63kes
+grilled lamb chops,adult,dinner,indian,grilled,main course,non-vegetarian,medium,festive,high protein,indian,tender,1b62f2k
+grilled chicken tikka masala,senior citizen,dinner,indian,grilled,main course,non-vegetarian,medium,festive,high protein,indian,soft,1b5nffy
+dahi papad ki sabzi,adult,lunch,indian,stir-fried,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1b5n4vo
+roti,adult,breakfast,indian,steamed,side dish,vegetarian,mild,everyday,high carb,indian,soft,1b5kxl6
+grilled chicken tikka,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1b5kklp
+cajun potato,senior citizen,snacks,fusion,baked,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1b5hg4r
+creamy chicken curry,adult,dinner,indian,curried,main course,non-vegetarian,medium,everyday,high carb,indian,smooth,1b5fbhe
+vegetable lasagna,senior citizen,dinner,indian,baked,main course,vegetarian,mild,everyday,high protein,indian,soft,1b5el45
+chilli garlic dosa,senior citizen,breakfast,south indian,grilled,appetizer,vegetarian,medium,everyday,high carb,tamil,crispy,1b5dcdr
+rolling sticks,adult,lunch,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1b5crve
+chicken briyani,adult,dinner,indian,baked,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1b5cfdt
+Sizzling Chicken Tikka,senior citizen,dinner,indian,grilled,appetizer,non-vegetarian,medium,festive,high protein,indian,soft,1b5c6w2
+Doaba Style Keema Kulcha,adult,dinner,north indian,baked,main course,non-vegetarian,medium,everyday,high carb,punjabi,soft,1b5auni
+Sunday morning breakfast,senior citizen,breakfast,indian,baked,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1b5apsj
+Poha,adult,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high carb,indian,soft,1b58mse
+Fruit Chaat,adult,snacks,indian,stir-fried,snack,vegetarian,mild,everyday,high fiber,indian,crunchy,1b527mj
+Steamed Carrots,adult,snacks,indian,steamed,appetizer,vegetarian,mild,everyday,high fiber,indian,soft,1b4yhu9
+Paper Masala Dosa,senior citizen,breakfast,south indian,steamed,appetizer,vegetarian,medium,festive,high protein,tamil,thin,1b4xxmv
+Steamed Chickpeas,senior citizen,breakfast,indian,steamed,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1b4wf8a
+Pork Vindaloo,adult,lunch,indian,stir-fried,main course,non-vegetarian,spicy,everyday,high protein,goan,soft,1b4vc9h
+Chana Dal Tadka,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1b4ufza
+chole bhature,adult,breakfast,north indian,fried,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1b4u9p7
+matar ki crispy pakodi,adult,snacks,indian,fried,snack,vegetarian,mild,everyday,high carb,punjabi,crispy,1b4tqnf
+chicken tikka masala,adult,dinner,indian,stewed,stew,non-vegetarian,mild,everyday,high protein,indian,soft,1b4theu
+chaat,child,snacks,indian,stir-fried,snack,vegetarian,mild,everyday,high carb,indian,crunchy,1b4saia
+aloo tikki,child,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,crispy,1b4reie
+paneer paratha,adult,breakfast,north indian,grilled,main course,vegetarian,mild,everyday,high protein,punjabi,soft,1b4qsql
+aloo parathas,adult,breakfast,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1b4ply2
+achari paneer puffs,adult,snacks,indian,baked,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1b4p8e2
+potato rings,child,snacks,indian,fried,appetizer,vegetarian,mild,everyday,high carb,indian,crispy,1b4p131
+salted jaggery caramel makhana,adult,dessert,indian fusion,stir-fried,dessert,vegetarian,mild,everyday,high carb,indian fusion,soft,1b4olwd
+maharashrian,adult,dinner,indian,stir-fried,main,vegetarian,medium,everyday,high,maharashtrian,crispy,1b4kqkx
+Chilly potato,child,snacks/appetizer,indian,stir-fried,appetizer,vegetarian,medium,everyday,high,indian,crispy,
+chole,senior citizen,lunch,north,steamed,main,vegetarian,medium,everyday,high,punjabi,soft,1b4h908
+bhature,senior citizen,lunch,indian,baked,appetizer,vegetarian,mild,everyday,high,gujarati,soft,1b4h0iz
+paneer,adult,dinner,indian,stir-fried,main,vegetarian,medium,everyday,high,indian,creamy,1b4aeg2
+kadhai,adult,dinner,indian,stir-fried,main,vegetarian,medium,everyday,high,tamil,soft,1b432tp
+butter,adult,dinner,indian,grilled,main,non-vegetarian,medium,festive,high,punjabi,creamy,1b40yte
+rasgulla,senior citizen,dessert,indian,steamed,dessert,vegetarian,mild,festive,high,bengali,soft,1b40w11
+dry,senior citizen,dessert,indian,steamed,dessert,vegetarian,mild,everyday,high,indian,soft,1b40hsk
+chicken,adult,snacks,fusion,fried,appetizer,non-vegetarian,medium,ramadan,high,can't,crispy,1b3y1be
+pav bhaji,senior citizen,lunch,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1b3xpku
+chicken pakoda,adult,snacks,indian,fried,appetizer,non-vegetarian,medium,everyday,high protein,indian,crispy,1b3x94q
+momos,senior citizen,lunch,north indian,steamed,appetizer,vegetarian,mild,everyday,high protein,punjabi,soft,1b3wwxj
+chickpea salad,senior citizen,lunch,indian,stir-fried,appetizer,vegetarian,mild,everyday,high protein,indian,crunchy,1b3wks8
+bhandare wale kale chane,adult,snacks,north indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,maharashtrian,crunchy,1b3tpj3
+halwa pooris,senior citizen,dinner,indian,steamed,dessert,vegetarian,mild,festive,high carb,indian,soft,1b3tp5p
+khao suey,adult,dinner,fusion,stir-fried,main course,vegetarian,medium,everyday,high protein,myanmar,crunchy,1b3tmvs
+aloo methi ki sabzi,senior citizen,lunch,indian,steamed,side dish,vegetarian,medium,everyday,high fiber,indian,soft,1b3sazo
+chatpate aloo,adult,evening,indian,stir-fried,snack,vegetarian,medium,ramadan,high carb,indian,crispy,1b3rqnz
+palak chicken,adult,lunch,north indian,stir-fried,main course,non-vegetarian,medium,everyday,high protein,punjabi,tender,1b3r9la
+rajma chawal,adult,dinner,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1b3qcsg
+oats banana smoothie,child,snacks,fusion,steamed,snack,vegetarian,mild,everyday,high protein,punjabi,smooth,1b3o0hk
+doaba style chole masala dry,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1b3nyf8
+saag tofu,adult,lunch,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,punjabi,soft,1b3huvn
+darjeeling tea,senior citizen,breakfast,indian,steamed,dessert,vegetarian,mild,festive,high protein,darjeeling,smooth,1b3gr2z
+samosa,child,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1b38xbn
+tandoori octopus,adult,lunch,fusion,grilled,appetizer,non-vegetarian,medium,everyday,high protein,fusion,tender,1b382y9
+pav bhaji,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1b35vzv
+butterfly chicken,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,tender,1b344ts
+sev puri,child,snacks,indian,stir-fried,snack,vegetarian,mild,festive,high carb,north indian,crispy,1b32nte
+sai baba ka prasad,senior citizen,dinner,indian,steamed,dessert,vegetarian,mild,festive,high carb,north indian,soft,1b32bef
+grilled chicken,adult,lunch,indian,grilled,main course,non-vegetarian,mild,everyday,high protein,indian,tender,1b328bw
+kanda bhajiya,adult,snacks,indian,fried,appetizer,vegetarian,mild,everyday,high carb,gujarati,crispy,1b31ke5
+grilled paneer tikka,adult,dinner,indian,grilled,appetizer,vegetarian,mild,festive,high protein,south indian,soft,1b2x103
+paneer tikki,senior citizen,lunch,indian,grilled,appetizer,vegetarian,medium,festive,high protein,north indian,crunchy,1b2wgl6
+gujarati khandvi,adult,lunch,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,gujarati,soft,1b2w9b3
+panner momos,adult,snacks,indian,steamed,appetizer,vegetarian,mild,everyday,high protein,north indian,soft,1b2tnqy
+chaat,adult,snacks,indian,grilled,street food,vegetarian,medium,everyday,high carb,gujarati,crunchy,1b2t7ou
+palak paratha,senior citizen,breakfast,north indian,steamed,appetizer,vegetarian,mild,everyday,high carb,punjabi,soft,1b2rync
+aloo tikki,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1b2ny7p
+shahi tukda,senior citizen,dinner,indian,fried,dessert,vegetarian,mild,festive,high carb,indian,soft,1b2e28c
+baigan bharta,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1b2c77g
+masoor dal,adult,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1b2af1y
+banana bread,adult,dessert,fusion,baked,dessert,vegetarian,mild,everyday,high carb,fusion,soft,1b27z88
+zurbiyan rice,adult,dinner,north indian,steamed,main course,vegetarian,mild,everyday,high carb,punjabi,soft,1b26flz
+black pepper eggs,adult,breakfast,indian,fried,breakfast,vegetarian,mild,everyday,high protein,indian,soft,1b236to
+idli,senior citizen,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high protein,indian,soft,1b22c3n
+lotus stem,adult,dinner,north indian,stir-fried,side dish,vegetarian,medium,festive,high fiber,punjabi,crispy,1b20brn
+millet tikki,child,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1b1zew1
+mewa mawa ladoo,senior citizen,dinner,indian,steamed,dessert,vegetarian,mild,festive,high carb,indian,soft,1b1xguo
+aloo shimla mirch,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1b1kl5n
+samosas,child,snacks,indian,baked,snack,vegetarian,mild,everyday,high carb,indian,crispy,1b1hecr
+sabudana khichdi,senior citizen,lunch,indian,steamed,main course,vegetarian,medium,everyday,high carb,gujarati,soft,1b1gkju
+dal,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,creamy,1b1gcpt
+mangalorean chicken ghee roast,adult,dinner,south indian,grilled,main course,non-vegetarian,medium,festive,high protein,mangalorean,tender,1b1fqlo
+chole bhature,senior citizen,lunch,north indian,stir-fried,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1b1eeqt
+masala sandwich,senior citizen,snacks,indo-western,grilled,snack,non-vegetarian,medium,everyday,high carb,indo-western,soft,1b1d5up
+masala gobhi,senior citizen,lunch,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,punjabi,crispy,1b1cb66
+chicken steam roast,senior citizen,dinner,indian,steamed,main course,non-vegetarian,mild,everyday,high protein,indian,tender,1b1bzqv
+carrot,senior citizen,lunch,indian,pickled,side dish,vegetarian,mild,everyday,high fiber,indian,crispy,1b1bkdg
+pickle,adult,snacks,indian,pickled,appetizer,vegetarian,medium,everyday,high fiber,indian,crunchy,1b1b0p9
+aloo tikki,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1b1968x
+aloo thukpa,senior citizen,lunch,north indian,stir-fried,main course,vegetarian,mild,everyday,high carb,tibetan,soup,1b18n8h
+paneer masala,adult,lunch,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1b18e8m
+mushroom chilli,adult,snacks,fusion,stir-fried,appetizer,vegetarian,medium,everyday,high protein,fusion,crispy,1b17btj
+kadai paneer,adult,lunch,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,indian,soft,1b16vjq
+vada pav,senior citizen,snacks,indian,grilled,snack,vegetarian,medium,everyday,high carb,mumbai,soft,1b10o58
+iftar ki dawat,adult,dinner,indian,grilled,appetizer,non-vegetarian,medium,festive,high protein,indian,soft,1b14dqw
+spring onion,adult,snacks,indian,steamed,appetizer,vegetarian,mild,everyday,high fiber,indian,crispy,1b10o58
+pickle,adult,snacks,indian,pickled,appetizer,vegetarian,mild,everyday,highfiber,indian,crispy,1b0oaq0
+ghar,adult,dinner,indian,stirfried,maincourse,vegetarian,mild,everyday,highcarb,indian,soft,1b0ny3b
+pizza,adult,dinner,italian,baked,pizza,vegetarian,mild,everyday,highcarb,italian,chewy,1b0mab9
+idli,adult,dinner,southindian,steamed,maincourse,vegetarian,mild,everyday,highcarb,tamil,soft,1b0kc0b
+meetha,adult,lunch,northindian,grilled,maincourse,vegetarian,mild,everyday,highcarb,punjabi,soft,1b0iqtg
+oyester,child,snacks,fusion,grilled,appetizer,vegetarian,medium,everyday,highprotein,indian,crispy,1b0h3ek
+bread,adult,snacks,indian,baked,snack,vegetarian,mild,everyday,highcarb,indian,soft,1b0h0un
+manchurian,adult,snacks,indowestern,stirfried,snack,vegetarian,medium,everyday,highprotein,indian,crunchy,1b0gfp1
+chicken,adult,lunch,indian,grilled,maincourse,non-vegetarian,medium,everyday,highprotein,indian,soft,1b0faj9
+chicken,adult,dinner,northindian,grilled,maincourse,non-vegetarian,medium,everyday,highprotein,punjabi,soft,1b0ejfd
+Carrot Halwa,senior citizen,dessert,indian,stir-fried,dessert,vegetarian,mild,festive,high carb,other,smooth,1b0ehdm
+idli,adult,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high protein,indian,soft,1b0dnuz
+Chicken 65,adult,snacks,south indian,grilled,appetizer,non-vegetarian,medium,festive,high protein,tamil nadu,crispy,1b0cayy
+Chicken Semiya,adult,dinner,indian,stir-fried,main course,non-vegetarian,medium,everyday,high protein,south indian,soft,1b0c36f
+Chowmein,senior citizen,lunch,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,indian,soft,1b0c0f3
+Biscuits,adult,snacks,indian,baked,dessert,vegetarian,mild,everyday,high carb,indian,crunchy,1b0akus
+Roti Shoti,senior citizen,breakfast,north indian,steamed,appetizer,vegetarian,mild,everyday,high carb,punjabi,soft,1azshc0
+Baby corn capsicum and paneer sabzi with roti,adult,dinner,indian,stir-fried,main course,vegetarian,mild,everyday,high protein,indian,soft,1azyqon
+Steamed Dumplings,adult,snacks,indian,steamed,snack,vegetarian,mild,everyday,high fiber,odisha,soft,1azy7wi
+Idli Dhokla,senior citizen,breakfast,south indian,steamed,appetizer,vegetarian,mild,everyday,high carb,tamil nadu,soft,1azuzma
+cry bhindi,senior citizen,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high protein,bengali,crispy,1azq9kk
+veg biryani,senior citizen,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1azq0mc
+spicy peanut butter pasta,adult,dinner,fusion,stir-fried,appetizer,vegetarian,spicy,everyday,high protein,indian,creamy,1azm4th
+aloo gosht,adult,dinner,indian,stir-fried,main course,non-vegetarian,medium,everyday,high protein,punjabi,soft,1azle25
+kadhi chawal and butter roti,adult,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1azkdyx
+ras malai tres leches cake,senior citizen,dessert,fusion,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1azhcwr
+rajma chawal,adult,lunch,indian,boiled,main course,vegetarian,medium,everyday,high carb,north indian,soft,1azgw6t
+air fryer chicken 65,adult,dinner,fusion,stir-fried,main course,non-vegetarian,medium,everyday,high protein,indian,crispy,1az6j24
+paneer tikka,senior citizen,lunch,north indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,soft,1az4yom
+butter chicken,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,smooth,1az20e4
+shaniwaar meal,senior citizen,dinner,indian,stir-fried,main course,vegetarian,medium,festive,high carb,indian,soft,1ayzzn6
+amritsari nutri bread,adult,snacks,indian,baked,appetizer,vegetarian,mild,everyday,high carb,punjabi,soft,1aywuch
+paneer tikka,senior citizen,dinner,north indian,grilled,appetizer,vegetarian,medium,festive,high protein,punjabi,soft,1aywbg7
+malai kofta,adult,dinner,north indian,steamed,main course,vegetarian,mild,everyday,high protein,punjabi,soft,1ayvteo
+paranthas,child,breakfast,north indian,grilled,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1ayuog6
+chapathi and beef masala,adult,dinner,north indian,stir-fried,main course,non-vegetarian,medium,festive,high protein,punjabi,soft,1aytfld
+amritsari chole,adult,lunch,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,creamy,1ayrnze
+poha and curd rice,child,breakfast,indian,steamed,main course,vegetarian,mild,everyday,high carb,indian,soft,1ayri2r
+payasam cake,senior citizen,dinner,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,cake,1ayqrkb
+paneer popcorn,child,snacks,indo-western,grilled,snack,vegetarian,mild,everyday,high protein,indo-western,crispy,1aypxdb
+pav bhaji,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1ayjatv
+chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,india,soft,1ay47dg
+pudina dhania chutney,adult,lunch,indian,stir-fried,starter,vegetarian,mild,everyday,high protein,indian,smooth,1ay3eak
+volcano rice,senior citizen,dinner,indian,stir-fried,main course,vegetarian,spicy,everyday,high protein,indian,crunchy,1ay1uu0
+chicken korma,adult,dinner,indian,stir-fried,main course,non-vegetarian,medium,everyday,high protein,indian,smooth,1ay1pa4
+veg manchurian,adult,lunch,indo-western,stir-fried,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1ay126f
+chicken and pineapple pizza,senior citizen,dinner,fusion,baked,pizza,non-vegetarian,mild,everyday,high carb,indian,chewy,1ay0bn9
+gulab jamun,adult,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1ay049p
+paneer-butter masala tikka,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,indian,soft,1axzya6
+Little Millet Khichdi,senior citizen,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,other,soft,1axyzfj
+Egg Curry,senior citizen,dinner,indian,curried,main course,vegetarian,medium,everyday,high carb,indian,smooth,1axxbnk
+Vada Pav,senior citizen,snacks,indian,fried,snack,vegetarian,medium,everyday,high carb,maharashtrian,crispy,1axx95p
+Fatafat Carrot Cauliflower Achaar,adult,lunch,indian,stir-fried,appetizer,vegetarian,medium,everyday,high fiber,indian,crunchy,1axtvid
+Paneer Butter Masala,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high protein,indian,creamy,1axrzoj
+Palak Shrimp,adult,dinner,indian fusion,grilled,appetizer,non-vegetarian,medium,everyday,high protein,indian,soft,1axo6zf
+Gobi Manchurian,adult,lunch,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,indian,soft,1axhk9m
+Baked Samosas,adult,snacks,indian,baked,snack,vegetarian,mild,ramadan,high fiber,indian,crispy,1axh2yc
+Amritsari Aloo Wadi,adult,dinner,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1axf2si
+Chicken Tikka Masala,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,everyday,high protein,punjabi,soft,1axazp2
+mac and cheese,adult,dinner,indo-western,grilled,main course,non-vegetarian,mild,everyday,high protein,other,creamy,1ax8xvt
+gulab jamun,senior citizen,dinner,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1ax80z3
+ramen,senior citizen,dinner,fusion,stir-fried,appetizer,vegetarian,mild,everyday,high protein,other,soft,1ax7rmb
+garlic bread,adult,snacks,western,baked,appetizer,non-vegetarian,mild,everyday,high carb,other,soft,1ax6qrj
+ram laddo,child,dessert,north indian,steamed,dessert,vegetarian,mild,everyday,high protein,punjabi,soft,1ax6n5g
+shabu khichadi,adult,dinner,indian,steamed,main course,vegetarian,mild,everyday,high protein,indian,soft,1ax65m6
+grilled cheese sandwich,adult,snacks,fusion,grilled,snack,vegetarian,mild,everyday,high carb,western,crispy,1ax3888
+strawberry tart,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,everyday,high fiber,other,smooth,1ax2ljv
+palak pakodi,adult,snacks,indian,fried,appetizer,vegetarian,medium,festive,high carb,maharashtrian,crispy,1ax23ej
+kadai paneer,adult,lunch,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,indian,soft,1ax18j1
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1awzwbf
+idli,adult,morning,indian,steamed,breakfast,vegetarian,mild,everyday,high protein,indian,soft,1awyp9f
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,everyday,high carb,indian,soft,1awwsag
+shatabdi express meals,senior citizen,dinner,indian,steamed,meal,vegetarian,mild,everyday,high protein,indian,soft,1awi3zu
+dhania hummus,adult,lunch,fusion,grilled,appetizer,non-vegetarian,medium,everyday,high protein,indian,smooth,1awexvp
+egg fried rice,senior citizen,dinner,fusion,stir-fried,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1awd8h0
+hot noodles,adult,lunch,fusion,stir-fried,appetizer,vegetarian,mild,everyday,high carb,indian,soft,1awcz3o
+stuffed capsicum,senior citizen,dinner,indian,baked,main course,vegetarian,medium,festive,high fiber,indian,soft,1awcxuo
+chicken tikka,senior citizen,snacks,indian,grilled,appetizer,non-vegetarian,mild,everyday,high protein,indian,soft,1awcafb
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,gujarati,soft,1awa52j
+chicken 65 samosa,adult,lunch,fusion,fried,appetizer,non-vegetarian,medium,festive,high protein,tamil nadu,crispy,1awa09a
+biryani,adult,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high carb,indian,soft,1aw8x3s
+steamed rice with lentils,adult,lunch,indian,steamed,main course,vegetarian,mild,everyday,high fiber,indian,soft,1aw5nf6
+chana ghugni,senior citizen,snacks,north indian,steamed,appetizer,vegetarian,medium,everyday,high protein,punjabi,soft,1aw51r0
+bread parcel,senior citizen,breakfast,indian,baked,appetizer,vegetarian,mild,everyday,high carb,indian,soft,1aw2cmo
+grilled chicken tikka,adult,dinner,indian,grilled,main course,non-vegetarian,mild,everyday,high protein,indian,tender,1aw259s
+open chicken buns,adult,snacks,indian,grilled,snack,non-vegetarian,medium,ramadan,high carb,indian,soft,1avtfkf
+sada dosai and vadacurry warriors,senior citizen,breakfast,south indian,steamed,appetizer,vegetarian,medium,everyday,high fiber,tamil,soft,1avpnua
+steamed idli,senior citizen,snacks,indian,steamed,snack,vegetarian,mild,everyday,high fiber,indian,soft,1avorl7
+phuchka,adult,snacks,indian,steamed,snack,vegetarian,medium,everyday,high carb,indian,crispy,1avm9aq
+grilled chicken tikka,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,punjabi,soft,1avlqox
+matar kachori,adult,snacks,north indian,steamed,snack,vegetarian,medium,everyday,high carb,punjabi,soft,1avlgyl
+steamed rice,adult,lunch,indian,steamed,main course,vegetarian,mild,everyday,high protein,indian,soft,1avkzpy
+egg curry,senior citizen,dinner,indian,curried,main course,vegetarian,medium,everyday,high protein,indian,soft,1avkvbz
+vada pav,adult,snacks,indian,grilled,snack,vegetarian,mild,everyday,high carb,indian,crispy,1avkk4u
+beetroot & vegetable cutlets,adult,snacks,indian,steamed,snack,vegetarian,medium,street food,high protein,kolkata,soft,1avkhb0
+mung dal,senior citizen,lunch,indian,boiled,main course,vegetarian,medium,everyday,high protein,indian,smooth,1avjyd4
+crispy peanut pakodi,adult,snacks,indian,fried,appetizer,vegetarian,mild,everyday,high carb,indian,crispy,1aviy98
+aloo tuk,adult,snacks,indian,fried,snack,vegetarian,mild,everyday,high carb,indian,crispy,1avdkur
+halwa,senior citizen,dinner,indian,stir-fried,dessert,vegetarian,mild,festive,high carb,indian,soft,1av9p74
+chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,punjabi,soft,1av78nh
+tomato onion paratha,senior citizen,breakfast,north indian,grilled,main course,vegetarian,mild,everyday,high carb,punjabi,soft,1auoi08
+mushroom butter cheese,adult,snacks,fusion,baked,appetizer,vegetarian,mild,everyday,high protein,fusion,soft,1auogm6
+pohe,adult,snacks,indian,steamed,snack,vegetarian,mild,everyday,high carb,maharashtrian,soft,1aunohu
+chaat,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,punjabi,crispy,1aukk0b
+samosa,senior citizen,lunch,indian,fried,appetizer,vegetarian,medium,festive,high carb,punjabi,crispy,1auk9ne
+bhindi pyaaj sabji,adult,dinner,north indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,punjabi,soft,1aujwcf
+cold coffee,adult,snacks,indian,brewed,drink,vegetarian,mild,everyday,high carb,indian,smooth,1auhd9x
+jam,senior citizen,breakfast,fusion,stir-fried,dessert,vegetarian,mild,everyday,high carb,fusion,chunky,1augo8l
+chicken tikka masala,senior citizen,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,punjabi,soft,1aue4wv
+banaras delights,adult,dinner,north indian,steamed,appetizer,vegetarian,mild,traditional,high fiber,banaras,soft,1audxpt
+zero oil poori,senior citizen,snacks,indian,fried,appetizer,vegetarian,mild,traditional,high carb,banaras,crispy,1au2982
+butter chicken and peas pulao,adult,dinner,north indian,stir-fried,main course,non-vegetarian,medium,everyday,high protein,punjabi,soft,1au0z61
+chole paneer masala,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,festive,high protein,punjabi,creamy,1atxr4x
+rajma,child,dinner,north indian,boiled,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1atxlk3
+chicken curry,adult,dinner,indian,curried,main course,non-vegetarian,medium,everyday,high protein,punjabi,smooth,1atxi99
+khichdi,child,dinner,indian,boiled,main course,vegetarian,medium,everyday,high carb,gujarati,creamy,1atvyzu
+chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,festive,high protein,indian,tender,1attqsg
+aloo gobi,senior citizen,lunch,indian,steamed,appetizer,vegetarian,medium,everyday,high protein,punjabi,crispy,1atsviy
+chicken jalfrezi,adult,dinner,indian,stir-fried,main course,non-vegetarian,medium,festive,high protein,indian,soft,1ats0g4
+chicken pulao,adult,lunch,indian,steamed,main course,non-vegetarian,medium,festive,high protein,indian,soft,1atr142
+methi matar malai,senior citizen,dinner,indian,steamed,appetizer,vegetarian,mild,festive,high protein,north indian,soft,1atprfg
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1atp4xm
+parathas,child,breakfast,north indian,grilled,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1ato6do
+momo,child,breakfast,indian,steamed,dessert,vegetarian,mild,everyday,high carb,indian,soft,1atlmf2
+butter chicken,adult,dinner,indian,stir-fried,main course,non-vegetarian,medium,festive,high protein,indian,creamy,1atkwtg
+kolkata chicken biryani,senior citizen,lunch,indian,steamed,main course,non-vegetarian,medium,festive,high carb,bengali,soft,1atkwnm
+chicken omlette roll,adult,snacks,indian,grilled,appetizer,non-vegetarian,mild,everyday,high protein,indian,soft,1atjhql
+chicken vegetable pulao,senior citizen,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high carb,indian,soft,1atb1b0
+jeera aloo,adult,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high carb,indian,crunchy,1at33pd
+dal pakwan,senior citizen,lunch,north indian,steamed,appetizer,vegetarian,medium,festive,high protein,panjabi,soft,1at32ro
+onion samosa,senior citizen,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1at20i9
+jhol and steamed momos,senior citizen,lunch,indian,steamed,appetizer,vegetarian,medium,festive,high protein,indian,soft,1at1mzy
+egg curry,adult,dinner,indian,curried,main course,vegetarian,medium,everyday,high protein,indian,soft,1aszcni
+broccoli tikki,adult,snacks,indian,grilled,appetizer,vegetarian,mild,everyday,high protein,indian,crispy,1asypwd
+pohe,child,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high carb,maharashtrian,soft,1asvm47
+omelette,adult,breakfast,indian,fried,breakfast,vegetarian,mild,everyday,high protein,indian,soft,1asvhli
+onion uttapam,adult,brunch,south indian,grilled,appetizer,vegetarian,mild,saturday brunch,high protein,tamil,soft,1asvdll
+gulab jamun,adult,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1asssae
+misal pav,adult,lunch,indian,stir-fried,starter,vegetarian,medium,everyday,high carb,maharashtrian,soft,1ash7b2
+oats chilla,child,snacks,fusion,stir-fried,snack,vegetarian,mild,everyday,high fiber,indian,soft,1asdrej
+grilled chicken tikka,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,tender,1ascrpw
+chicken curry,adult,dinner,indian,curried,main course,non-vegetarian,medium,everyday,high protein,indian,smooth,1asbzwz
+steamed wheat cakes,adult,breakfast,indian,steamed,appetizer,vegetarian,mild,everyday,high fiber,india,soft,1as9s56
+methi paratha,adult,breakfast,north indian,grilled,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1as9d9w
+dal,adult,lunch,fusion,grilled,appetizer,non-vegetarian,medium,everyday,high protein,indian,soft,1as8g3e
+chole chaat,adult,snacks,north indian,stir-fried,appetizer,vegetarian,medium,festive,high protein,punjabi,crunchy,1as452m
+kande pohe,adult,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high carb,maharashtrian,soft,1arzgdz
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1arypda
+steamed bhar,adult,snacks,indian,steamed,appetizer,vegetarian,mild,everyday,high fiber,indian,soft,1arld4w
+aloo gobi shingara,senior citizen,snacks,indian,baked,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1arjlty
+steamed momos,adult,snacks,indo-western,steamed,snack,vegetarian,mild,everyday,high protein,indian,soft,1arhz58
+egg kothu parotta,adult,lunch,south indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,tamil nadu,soft,1arf8d2
+chicken parmesan,adult,dinner,fusion,baked,appetizer,non-vegetarian,mild,everyday,high carb,italian,crispy,1arcae0
+paneer paratha,adult,dinner,north indian,grilled,main course,vegetarian,medium,everyday,high protein,punjabi,soft,1arbveo
+saraswati puja ka bhog,senior citizen,dinner,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1ar90y7
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1ar85un
+chai,senior citizen,breakfast,indian,boiled,beverage,vegetarian,mild,everyday,low fat,indian,liquid,1ar7qhm
+grilled chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1aqxscj
+chilli gobi,adult,dinner,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,punjabi,crispy,1aqxe78
+roasted masala potatoes,senior citizen,dinner,indian,roasted,side dish,vegetarian,medium,everyday,high carb,indian,crispy,1aqsm2x
+cake,senior citizen,dessert,western,baked,dessert,vegetarian,mild,everyday,high carb,western,soft,1aqrnjc
+meethe chawal,senior citizen,dinner,indian,steamed,main course,vegetarian,mild,festive,high carb,indian,soft,1aqqdfx
+garhwali thali,adult,lunch,north indian,steamed,thali,vegetarian,medium,everyday,high protein,garhwali,soft,1aqny7r
+goat soup,adult,dinner,indian,slow-cooked,soup,non-vegetarian,medium,everyday,high protein,indian,smooth,1aqnajp
+cheese chicken boti kebab,adult,dinner,indo-western,grilled,main course,non-vegetarian,medium,festive,high protein,indian,tender,1aqmtcx
+whole masala seabass,adult,dinner,indian,fried,main course,non-vegetarian,medium,everyday,high protein,indian,soft,1aqkhv5
+khichuri,senior citizen,lunch,indian,stir-fried,main course,vegetarian,medium,festive,high carb,indian,soft,1aqjrgl
+palak mushroom ki sabzi,adult,dinner,north indian,stir-fried,side dish,vegetarian,medium,everyday,high protein,punjabi,soft,1aqj0we
+luchi,senior citizen,breakfast,indian,steamed,dessert,vegetarian,mild,festive,high carb,bengali,soft,1aqiqy5
+oats chilla,senior citizen,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high protein,other,soft,1aqihff
+meethi thepla,adult,breakfast,north indian,grilled,appetizer,vegetarian,mild,everyday,high carb,punjabi,soft,1aqie5o
+poha,senior citizen,breakfast,indian,steamed,breakfast,vegetarian,mild,everyday,high carb,indian,soft,1aqgdla
+noodles,child,snacks,fusion,steamed,appetizer,vegetarian,mild,everyday,high carb,fusion,soft,1aqez2s
+gajar ka halwa,senior citizen,dinner,north indian,stir-fried,dessert,vegetarian,mild,festive,high carb,punjabi,soft,1aqeih8
+gulab jamun,senior citizen,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1aqcyb9
+vegetable masala,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,indian,soft,1aq1xhf
+gajar ka halwa,senior citizen,dinner,indian,stir-fried,dessert,vegetarian,mild,everyday,high carb,north indian,soft,1apzoqg
+la pinoz pizza,adult,dinner,indo-western,baked,pizza,non-vegetarian,mild,everyday,high carb,indo-western,soft,1apv7bc
+makhana chaat,adult,snacks,indian,stir-fried,snack,vegetarian,mild,everyday,high protein,maharashtrian,crispy,1aptnwz
+tomato rice,adult,dinner,south indian,steamed,main course,vegetarian,mild,everyday,high carb,tamil,soft,1aptadl
+sukoon on a plate,adult,dessert,indian,baked,dessert,vegetarian,mild,everyday,high carb,indian,soft,1apqcp0
+rajma-chawal,adult,dinner,north indian,steamed,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1applfi
+perfect pure punjabi parantha,adult,dinner,north indian,grilled,main course,vegetarian,medium,everyday,high carb,punjabi,soft,1apo4ia
+fusion noodles,adult,lunch,fusion,stir-fried,main course,vegetarian,medium,everyday,high protein,fusion,soft,1apmyj7
+sabudana cutlet,adult,snacks,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,maharashtrian,crunchy,1apmrq9
+whole wheat pav,adult,breakfast,indian,baked,appetizer,vegetarian,mild,everyday,high carb,indian,soft,1ape7w3
+khichdi,senior citizen,dinner,indian,steamed,main course,vegetarian,mild,everyday,high carb,indian,soft,1ap1fiv
+basket chaat,adult,snacks,indian,stir-fried,snack,vegetarian,mild,everyday,high fiber,maharashtrian,crispy,1ap0rtp
+Stuffed chilli bhajji,adult,snacks,indian,stir-fried,appetizer,vegetarian,medium,everyday,high protein,indian,crunchy,1ap0fdp
+andhra chicken curry,adult,dinner,indian,curried,main course,non-vegetarian,spicy,festive,high protein,andhra,thick,1ap0d8a
+gajar ka halwa,senior citizen,dinner,north indian,stir-fried,dessert,vegetarian,medium,festive,high carb,punjabi,smooth,1aox68g
+Besan radish ki sabzi,senior citizen,lunch,north indian,stir-fried,side dish,vegetarian,medium,everyday,high fiber,punjabi,soft,1aow5pg
+Beet root cutlet,adult,lunch,indian,steamed,appetizer,vegetarian,mild,everyday,high fiber,indian,soft,1aov22b
+pizza,adult,dinner,western,baked,pizza,vegetarian,mild,everyday,high carb,italian,chewy,1aot28q
+Fish pakora,adult,snacks,indian,fried,appetizer,non-vegetarian,medium,festive,high protein,indian,crispy,1aol5xn
+gobi,adult,lunch,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1aoks7s
+Gobi Manchurian,adult,lunch,indian,stir-fried,main course,vegetarian,mild,everyday,high protein,north indian,soft,1ao8tej
+Luchi,adult,lunch,East Indian,steamed,main course,vegetarian,medium,festive,high protein,Bengali,soft,1ao5ryn
+Steamed Broccoli,adult,dinner,Indian,steamed,main course,vegetarian,mild,everyday,high protein/high fiber,Indian,crispy,1ao58qz
+Assamese style pork dry fry,adult,lunch,East Indian,stir-fried,main course,non-vegetarian,medium,everyday,high protein/high carb,Assamese,crispy,1ao2uu4
+Dosa,adult,breakfast,South Indian,steamed,appetizer,vegetarian,mild,everyday,high carb,Tamil,soft,1ao2nuv
+Punjabi Kebab,adult,dinner,North Indian,grilled,main course,non-vegetarian,medium,festive,high protein,Punjabi,tender,1ao2ank
+Chicken Stew,adult,dinner,Western,stewed,main course,non-vegetarian,mild,everyday,high protein,Western,soft,1anylwj
+Paneer Tikka Biryani,adult,dinner,Indian,baked,main course,vegetarian,medium,everyday,high protein,Indian,soft,1anlnmf
+Idli and Sambhar,senior citizen,dinner,South Indian,steamed,main course,vegetarian,mild,everyday,high carb,Tamil,soft,1ank9ju
+Ragi chilla,senior citizen,breakfast,South Indian,steamed,breakfast,vegetarian,mild,everyday,high protein/high fiber,Tamil,soft,1aniz8b
+sattu paratha,adult,breakfast,north indian,grilled,main course,vegetarian,mild,everyday,high protein,punjabi,soft,1aniyx5
+spicy green chilli chicken,adult,lunch,indian,grilled,appetizer,non-vegetarian,spicy,festive,high protein,indian,crispy,1angibk
+dal bukhara style dal makhni,adult,dinner,north indian,stir-fried,main course,vegetarian,medium,everyday,high protein,punjabi,smooth,1an6q45
+palak paneer,senior citizen,dinner,north indian,steamed,appetizer,vegetarian,medium,festive,high protein,punjabi,soft,1an6ntq
+masaledar fry fish,senior citizen,dinner,fusion,fried,appetizer,non-vegetarian,medium,everyday,high protein,fusion,crispy,1amwge7
+gulab jamun,adult,dessert,indian,baked,dessert,vegetarian,mild,festive,high carb,indian,soft,1amtr5t
+basil lemon chicken,adult,dinner,fusion,grilled,main course,non-vegetarian,medium,everyday,high protein,fusion,tender,1amsdw9
+jeera aloo,senior citizen,dinner,indian,grilled,appetizer,vegetarian,medium,everyday,high protein,indian,crispy,1amqvmo
+koldil chicken,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,tender,1amqcqk
+ras malai,adult,dessert,indian,steamed,dessert,vegetarian,mild,everyday,high carb,indian,creamy,1amn1iz
+butter chicken,adult,dinner,north indian,grilled,main course,non-vegetarian,medium,festive,high protein,punjabi,creamy,1ammy9s
+chilli cheese potato,adult,snacks,indian,grilled,appetizer,vegetarian,medium,everyday,high carb,indian,crispy,1aml13i
+khichdi,senior citizen,dinner,indian,steamed,main course,vegetarian,medium,everyday,high carb,indian,soft,1amjqdt
+broccoli,senior citizen,lunch,indian,steamed,appetizer,vegetarian,mild,everyday,high fiber,indian,crispy,1amjiqr
+doaba style mix veg pulao with aloo palak paneer,adult,dinner,north indian,steamed,main course,vegetarian,medium,everyday,high carb,doaba,soft,1amh155
+dosa,senior citizen,breakfast,south indian,steamed,appetizer,vegetarian,mild,everyday,high carb,tamil,thin,1amh155
+grilled paneer tikka,adult,dinner,indo-western,grilled,appetizer,vegetarian,mild,everyday,high protein,doaba,soft,1amcht7
+bhelpuri,senior citizen,snacks,indian,stir-fried,snack,vegetarian,medium,street food,high carb,mumbai,crunchy,1am2p7f
+bisi bele bath,adult,dinner,south indian,steamed,main course,vegetarian,medium,everyday,high protein,karnataka,soft,1alxpe0
+hot and sour chicken soup,senior citizen,lunch,fusion,boiled,soup,non-vegetarian,mild,everyday,high protein,chinese,liquid,1alvg7q
+kadhi,adult,snacks,indian,fried,appetizer,vegetarian,medium,everyday,high protein,gujarati,crispy,1alr8wq
+besan chilla,senior citizen,breakfast,indian,steamed,appetizer,vegetarian,mild,everyday,high protein,indian,soft,1alr45j
+tibetan tingmo bread,senior citizen,lunch,indo-western,baked,appetizer,non-vegetarian,mild,everyday,high carb,tibetan,soft,1alq4a1
+jalebi,senior citizen,breakfast,north indian,steamed,dessert,vegetarian,mild,festive,high carb,punjabi,soft,1alprx2
+chicken tikka masala,adult,dinner,indian,grilled,main course,non-vegetarian,spicy,everyday,high protein,indian,tender,1alcqxk
+momos,senior citizen,dinner,north indian,steamed,appetizer,vegetarian,medium,festive,high protein,nepal,soft,1al78bi
+chicken biryani,adult,dinner,indian,steamed,main course,non-vegetarian,medium,festive,high carb,indian,soft,1al5od4
+khichdi,senior citizen,dinner,indian,steamed,main course,vegetarian,mild,everyday,high carb,indian,soft,1al4pty
+pav-bhaji,adult,dinner,indian,stir-fried,main course,vegetarian,medium,everyday,high carb,maharashtrian,soft,1al44ip
+gobi 65,adult,snacks,fusion,stir-fried,appetizer,vegetarian,medium,festive,high protein,indian,crispy,1al2dgg
+aloo parantha,senior citizen,lunch,north,grilled,main,vegetarian,mild,everyday,high,punjabi,soft,1al16lk
